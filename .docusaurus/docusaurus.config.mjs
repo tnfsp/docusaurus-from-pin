@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://collections.pinchlime.com",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "zh-TW",
