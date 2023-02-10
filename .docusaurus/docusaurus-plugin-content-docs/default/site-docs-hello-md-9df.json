@@ -1,0 +1,28 @@
+{
+  "unversionedId": "hello",
+  "id": "hello",
+  "title": "Hello",
+  "description": "This is my first docusaurus doc!",
+  "source": "@site/docs/hello.md",
+  "sourceDirName": ".",
+  "slug": "/hello",
+  "permalink": "/hello",
+  "draft": false,
+  "editUrl": "https://github.com/wupingju/pinchlime/edit/master/docs/docs/hello.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Hi!",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/category/tutorial---extras"
+  }
+}
