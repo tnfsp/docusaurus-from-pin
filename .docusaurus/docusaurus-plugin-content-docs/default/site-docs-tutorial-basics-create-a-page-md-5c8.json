@@ -8,7 +8,7 @@
   "slug": "/tutorial-basics/create-a-page",
   "permalink": "/tutorial-basics/create-a-page",
   "draft": false,
-  "editUrl": "https://github.com/wupingju/pinchlime/edit/master/docs/docs/tutorial-basics/create-a-page.md",
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/tutorial-basics/create-a-page.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial - Basics",
-    "permalink": "/category/tutorial---basics"
+    "title": "工具箱",
+    "permalink": "/category/工具箱"
   },
   "next": {
     "title": "Create a Document",

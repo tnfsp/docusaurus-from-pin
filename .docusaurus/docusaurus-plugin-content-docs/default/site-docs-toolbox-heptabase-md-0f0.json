@@ -1,0 +1,24 @@
+{
+  "unversionedId": "toolbox/heptabase",
+  "id": "toolbox/heptabase",
+  "title": "heptabase",
+  "description": "",
+  "source": "@site/docs/toolbox/heptabase.md",
+  "sourceDirName": "toolbox",
+  "slug": "/toolbox/heptabase",
+  "permalink": "/toolbox/heptabase",
+  "draft": false,
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/heptabase.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "工具箱",
+    "permalink": "/category/工具箱"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/category/tutorial---extras"
+  }
+}

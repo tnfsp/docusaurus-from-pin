@@ -1,0 +1,16 @@
+{
+  "title": "精選工具",
+  "description": "精選的各種工具",
+  "slug": "toolbox/featured",
+  "permalink": "/toolbox/featured",
+  "navigation": {
+    "previous": {
+      "title": "工具箱",
+      "permalink": "/toolbox"
+    },
+    "next": {
+      "title": "heptabase",
+      "permalink": "/toolbox/featured/heptabase"
+    }
+  }
+}

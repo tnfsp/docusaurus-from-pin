@@ -1,0 +1,27 @@
+{
+  "unversionedId": "toolbox/create-a-page",
+  "id": "toolbox/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/toolbox/create-a-page.md",
+  "sourceDirName": "toolbox",
+  "slug": "/toolbox/create-a-page",
+  "permalink": "/toolbox/create-a-page",
+  "draft": false,
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "工具箱",
+    "permalink": "/category/工具箱"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/toolbox/create-a-document"
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "unversionedId": "tutorial-basics/congratulations",
-  "id": "tutorial-basics/congratulations",
+  "unversionedId": "toolbox/congratulations",
+  "id": "toolbox/congratulations",
   "title": "Congratulations!",
   "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-  "source": "@site/docs/tutorial-basics/congratulations.md",
-  "sourceDirName": "tutorial-basics",
-  "slug": "/tutorial-basics/congratulations",
-  "permalink": "/tutorial-basics/congratulations",
+  "source": "@site/docs/toolbox/congratulations.md",
+  "sourceDirName": "toolbox",
+  "slug": "/toolbox/congratulations",
+  "permalink": "/toolbox/congratulations",
   "draft": false,
-  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/tutorial-basics/congratulations.md",
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/congratulations.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -18,7 +18,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/tutorial-basics/deploy-your-site"
+    "permalink": "/toolbox/deploy-your-site"
   },
   "next": {
     "title": "Tutorial - Extras",

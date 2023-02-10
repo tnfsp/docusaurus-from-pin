@@ -1,0 +1,27 @@
+{
+  "unversionedId": "toolbox/markdown-features",
+  "id": "toolbox/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/toolbox/markdown-features.mdx",
+  "sourceDirName": "toolbox",
+  "slug": "/toolbox/markdown-features",
+  "permalink": "/toolbox/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/toolbox/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/toolbox/deploy-your-site"
+  }
+}

@@ -26,7 +26,7 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "/Users/pjwu/Documents/GitHub/collections/sidebars.js",
-          "editUrl": "https://github.com/wupingju/pinchlime/edit/master/docs/"
+          "editUrl": "https://github.com/wupingju/collections/edit/master/"
         },
         "blog": false,
         "theme": {
@@ -46,9 +46,9 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "README",
           "position": "left",
-          "label": "Collections"
+          "label": "Library"
         },
         {
           "href": "https://pinchlime.com",
@@ -65,8 +65,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Collections",
-              "to": "/docs/intro"
+              "label": "Library",
+              "to": "/docs/README"
             }
           ]
         },

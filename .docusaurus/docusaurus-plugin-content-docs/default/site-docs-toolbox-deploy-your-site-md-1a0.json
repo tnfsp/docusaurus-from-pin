@@ -1,0 +1,27 @@
+{
+  "unversionedId": "toolbox/deploy-your-site",
+  "id": "toolbox/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/toolbox/deploy-your-site.md",
+  "sourceDirName": "toolbox",
+  "slug": "/toolbox/deploy-your-site",
+  "permalink": "/toolbox/deploy-your-site",
+  "draft": false,
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/toolbox/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/toolbox/congratulations"
+  }
+}

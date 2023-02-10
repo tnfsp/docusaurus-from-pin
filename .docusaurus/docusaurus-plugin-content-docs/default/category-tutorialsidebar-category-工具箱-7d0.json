@@ -1,0 +1,16 @@
+{
+  "title": "工具箱",
+  "description": "我所使用的各種工具",
+  "slug": "toolbox",
+  "permalink": "/toolbox",
+  "navigation": {
+    "previous": {
+      "title": "關於這個站",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "精選工具",
+      "permalink": "/toolbox/featured"
+    }
+  }
+}

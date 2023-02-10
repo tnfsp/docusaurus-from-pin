@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/wupingju/pinchlime/edit/master/docs/',
+            'https://github.com/wupingju/collections/edit/master/',
         },
         blog: false,
         theme: {
@@ -63,9 +63,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'README',
             position: 'left',
-            label: 'Collections',
+            label: 'Library',
           },
           {
             href: 'https://pinchlime.com',
@@ -81,8 +81,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Collections',
-                to: '/docs/intro',
+                label: 'Library',
+                to: '/docs/README',
               },
             ],
           },

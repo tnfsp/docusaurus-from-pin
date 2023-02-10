@@ -1,0 +1,24 @@
+{
+  "unversionedId": "README",
+  "id": "README",
+  "title": "關於這個站",
+  "description": "這是 Pin 起來 網站的子網站。",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "工具箱",
+    "permalink": "/toolbox"
+  }
+}

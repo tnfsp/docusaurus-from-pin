@@ -1,0 +1,9 @@
+{
+  "label": "精選工具",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "精選的各種工具",
+    "slug": "toolbox/featured"
+  }
+}
