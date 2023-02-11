@@ -22,7 +22,7 @@
             {
               "unversionedId": "about",
               "id": "about",
-              "title": "Pin 起來的收集箱",
+              "title": "About This Site",
               "description": "這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。",
               "source": "@site/docs/about.md",
               "sourceDirName": ".",
@@ -37,7 +37,7 @@
               "formattedLastUpdatedAt": "2023年2月11日",
               "sidebarPosition": 1,
               "frontMatter": {
-                "title": "Pin 起來的收集箱",
+                "title": "About This Site",
                 "last_update": {
                   "date": "2023-02-11T00:00:00.000Z",
                   "author": "P.J. Wu 吳秉儒"
@@ -48,7 +48,7 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "工具箱",
+                "title": "Toolbox",
                 "permalink": "/toolbox"
               }
             },
@@ -56,7 +56,7 @@
               "unversionedId": "changelog",
               "id": "changelog",
               "title": "Changelog",
-              "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 等頁面",
+              "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 、Docusaurus等頁面",
               "source": "@site/docs/changelog.md",
               "sourceDirName": ".",
               "slug": "/changelog",
@@ -82,6 +82,49 @@
               "previous": {
                 "title": "Logseq",
                 "permalink": "/logseq"
+              }
+            },
+            {
+              "unversionedId": "toolbox/express/docusaurus",
+              "id": "toolbox/express/docusaurus",
+              "title": "Docusaurus",
+              "description": "Docusaurus 是我在 2023 年 2 月無意間發現的靜態網站產生器，他有很乾淨易懂的官方文件，並且預設的介面就有完整的功能，包含兩欄式的 docs 瀏覽介面、 dark mode 、 友善 SEO 的網頁檔案架構等等。",
+              "source": "@site/docs/toolbox/express/docusaurus.md",
+              "sourceDirName": "toolbox/express",
+              "slug": "/docusaurus",
+              "permalink": "/docusaurus",
+              "draft": false,
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/toolbox/express/docusaurus.md",
+              "tags": [
+                {
+                  "label": "Express",
+                  "permalink": "/tags/express"
+                }
+              ],
+              "version": "current",
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1676073600,
+              "formattedLastUpdatedAt": "2023年2月11日",
+              "frontMatter": {
+                "title": "Docusaurus",
+                "last_update": {
+                  "date": "2023-02-11T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "Docusaurus 是我在 2023 年 2 月無意間發現的靜態網站產生器，他有很乾淨易懂的官方文件，並且預設的介面就有完整的功能，包含兩欄式的 docs 瀏覽介面、 dark mode 、 友善 SEO 的網頁檔案架構等等。",
+                "slug": "/docusaurus",
+                "tags": [
+                  "Express"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Express",
+                "permalink": "/toolbox/express"
+              },
+              "next": {
+                "title": "Unused Tools",
+                "permalink": "/unused-tools"
               }
             },
             {
@@ -139,12 +182,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "精選工具",
+                "title": "Featured",
                 "permalink": "/toolbox/featured"
               },
               "next": {
-                "title": "不再使用的工具",
-                "permalink": "/unused-tools"
+                "title": "Express",
+                "permalink": "/toolbox/express"
               }
             },
             {
@@ -192,7 +235,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "不再使用的工具",
+                "title": "Unused Tools",
                 "permalink": "/unused-tools"
               },
               "next": {
@@ -263,13 +306,13 @@
               },
               {
                 "type": "category",
-                "label": "工具箱",
+                "label": "Toolbox",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "category",
-                    "label": "精選工具",
+                    "label": "Featured",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -280,22 +323,40 @@
                     ],
                     "link": {
                       "type": "generated-index",
-                      "description": "精選的各種工具",
+                      "description": "精選工具（Featured）是同時具備多種不同屬性的工具，他們在我的工作流程中扮演重要角色。",
                       "slug": "toolbox/featured",
                       "permalink": "/toolbox/featured"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Express",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "toolbox/express/docusaurus"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "表達（Express）類型的工具，定位是讓我能將零散的想法轉化為完整的文字向外輸出，這類工具可能有著適合撰寫文字的功能，或者本身就有好的發布與曝光機制。",
+                      "slug": "toolbox/express",
+                      "permalink": "/toolbox/express"
                     }
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "我所使用的各種工具",
+                  "description": "Toolbox 裡面有我所使用的各種工具，包含精選工具（Featured）、擷取工具（Capture）、整理工具（Organize）、提煉工具（Distill）、表達工具（Express）、歸檔工具（Archive）、效率工具（Efficiency）等不同類型。",
                   "slug": "toolbox",
                   "permalink": "/toolbox"
                 }
               },
               {
                 "type": "category",
-                "label": "不再使用的工具",
+                "label": "Unused Tools",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [

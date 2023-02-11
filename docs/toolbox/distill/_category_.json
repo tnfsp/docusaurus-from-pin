@@ -1,0 +1,9 @@
+{
+  "label": "Distill",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "提煉（Distill）類型的工具，定位是協助我更快速地產生自己的想法，這類工具通常有很好的組織內容以及連結內容的能力，讓我能夠快速從先前整理過的內容中提煉出自己真正在意的事情與想法。",
+    "slug": "toolbox/distill"
+  }
+}

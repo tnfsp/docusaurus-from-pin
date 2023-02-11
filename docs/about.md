@@ -1,5 +1,5 @@
 ---
-title: Pin 起來的收集箱
+title: About This Site
 last_update: 
     date: 2023-02-11
     author: P.J. Wu 吳秉儒
@@ -7,8 +7,6 @@ sidebar_position: 1
 description: 這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。
 slug: /
 ---
-
-## 關於這個站
 
 這個網站是 [Pin 起來](https://pinchlime.com) 的子網站。
 

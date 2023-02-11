@@ -53,11 +53,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "精選工具",
+    "title": "Featured",
     "permalink": "/toolbox/featured"
   },
   "next": {
-    "title": "不再使用的工具",
-    "permalink": "/unused-tools"
+    "title": "Express",
+    "permalink": "/toolbox/express"
   }
 }

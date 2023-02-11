@@ -69,7 +69,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'dc2'),
+    component: ComponentCreator('/', 'cc9'),
     routes: [
       {
         path: '/',
@@ -90,6 +90,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docusaurus',
+        component: ComponentCreator('/docusaurus', '8ca'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/heptabase',
         component: ComponentCreator('/heptabase', '965'),
         exact: true,
@@ -103,19 +109,25 @@ export default [
       },
       {
         path: '/toolbox',
-        component: ComponentCreator('/toolbox', 'cca'),
+        component: ComponentCreator('/toolbox', 'b71'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/toolbox/express',
+        component: ComponentCreator('/toolbox/express', '17b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/toolbox/featured',
-        component: ComponentCreator('/toolbox/featured', '901'),
+        component: ComponentCreator('/toolbox/featured', 'b97'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/unused-tools',
-        component: ComponentCreator('/unused-tools', '759'),
+        component: ComponentCreator('/unused-tools', 'a0d'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

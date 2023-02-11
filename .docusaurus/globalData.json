@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "toolbox/express/docusaurus",
+              "path": "/docusaurus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "toolbox/featured/heptabase",
               "path": "/heptabase",
               "sidebar": "tutorialSidebar"
@@ -43,6 +48,11 @@
             {
               "id": "toolbox/featured",
               "path": "/toolbox/featured",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toolbox/express",
+              "path": "/toolbox/express",
               "sidebar": "tutorialSidebar"
             },
             {

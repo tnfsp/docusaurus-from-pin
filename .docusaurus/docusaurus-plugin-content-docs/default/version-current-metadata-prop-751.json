@@ -11,19 +11,19 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Pin 起來的收集箱",
+        "label": "About This Site",
         "href": "/",
         "docId": "about"
       },
       {
         "type": "category",
-        "label": "工具箱",
+        "label": "Toolbox",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "category",
-            "label": "精選工具",
+            "label": "Featured",
             "collapsible": true,
             "collapsed": true,
             "items": [
@@ -35,13 +35,28 @@
               }
             ],
             "href": "/toolbox/featured"
+          },
+          {
+            "type": "category",
+            "label": "Express",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Docusaurus",
+                "href": "/docusaurus",
+                "docId": "toolbox/express/docusaurus"
+              }
+            ],
+            "href": "/toolbox/express"
           }
         ],
         "href": "/toolbox"
       },
       {
         "type": "category",
-        "label": "不再使用的工具",
+        "label": "Unused Tools",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -71,14 +86,20 @@
   "docs": {
     "about": {
       "id": "about",
-      "title": "Pin 起來的收集箱",
+      "title": "About This Site",
       "description": "這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。",
       "sidebar": "tutorialSidebar"
     },
     "changelog": {
       "id": "changelog",
       "title": "Changelog",
-      "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 等頁面",
+      "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 、Docusaurus等頁面",
+      "sidebar": "tutorialSidebar"
+    },
+    "toolbox/express/docusaurus": {
+      "id": "toolbox/express/docusaurus",
+      "title": "Docusaurus",
+      "description": "Docusaurus 是我在 2023 年 2 月無意間發現的靜態網站產生器，他有很乾淨易懂的官方文件，並且預設的介面就有完整的功能，包含兩欄式的 docs 瀏覽介面、 dark mode 、 友善 SEO 的網頁檔案架構等等。",
       "sidebar": "tutorialSidebar"
     },
     "toolbox/featured/heptabase": {

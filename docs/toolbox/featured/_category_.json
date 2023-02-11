@@ -1,9 +1,9 @@
 {
-  "label": "精選工具",
+  "label": "Featured",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "精選的各種工具",
+    "description": "精選工具（Featured）是同時具備多種不同屬性的工具，他們在我的工作流程中扮演重要角色。",
     "slug": "toolbox/featured"
   }
 }

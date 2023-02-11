@@ -1,9 +1,9 @@
 {
-  "label": "工具箱",
+  "label": "Toolbox",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "我所使用的各種工具",
+    "description": "Toolbox 裡面有我所使用的各種工具，包含精選工具（Featured）、擷取工具（Capture）、整理工具（Organize）、提煉工具（Distill）、表達工具（Express）、歸檔工具（Archive）、效率工具（Efficiency）等不同類型。",
     "slug": "toolbox"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "label": "Organize",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "整理（Organize）類型的工具，定位是將擷取到的資訊妥善分類以及安排下一步動作，這類工具通常具有某種資料庫的功能，也通常能夠為不同資訊標上標籤。",
+    "slug": "toolbox/organize"
+  }
+}
