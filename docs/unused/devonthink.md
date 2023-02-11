@@ -11,7 +11,7 @@ tags:
     - Archive
 ---
 
-| Category | Info |
+| Property | Detail |
 | --- | --- |
 | Website | <https://www.devontechnologies.com/apps/devonthink> |
 | Rating | ★★★★★ |

@@ -11,7 +11,7 @@ tags:
     - Distill
 ---
 
-| Category | Info |
+| Property | Detail |
 | --- | --- |
 | Website | <https://logseq.com> |
 | Rating | ★★★★★ |

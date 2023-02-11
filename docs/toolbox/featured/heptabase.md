@@ -13,7 +13,7 @@ tags:
     - Archive
 ---
 
-| Category | Info |
+| Property | Detail |
 | --- | --- |
 | Website | <https://heptabase.com> |
 | Rating | ★★★★★ |
