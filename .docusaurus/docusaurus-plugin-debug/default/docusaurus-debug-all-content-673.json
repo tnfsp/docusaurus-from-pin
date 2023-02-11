@@ -23,7 +23,7 @@
               "unversionedId": "about",
               "id": "about",
               "title": "Pin 起來的收集箱",
-              "description": "關於這個站",
+              "description": "這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。",
               "source": "@site/docs/about.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -43,6 +43,7 @@
                   "author": "P.J. Wu 吳秉儒"
                 },
                 "sidebar_position": 1,
+                "description": "這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。",
                 "slug": "/"
               },
               "sidebar": "tutorialSidebar",
