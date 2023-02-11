@@ -1,24 +1,63 @@
 {
   "unversionedId": "toolbox/featured/heptabase",
   "id": "toolbox/featured/heptabase",
-  "title": "heptabase",
-  "description": "",
+  "title": "Heptabase",
+  "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
   "source": "@site/docs/toolbox/featured/heptabase.md",
   "sourceDirName": "toolbox/featured",
-  "slug": "/toolbox/featured/heptabase",
-  "permalink": "/toolbox/featured/heptabase",
+  "slug": "/heptabase",
+  "permalink": "/heptabase",
   "draft": false,
-  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/featured/heptabase.md",
-  "tags": [],
+  "editUrl": "https://github.com/wupingju/library/edit/master/docs/toolbox/featured/heptabase.md",
+  "tags": [
+    {
+      "label": "Capture",
+      "permalink": "/tags/capture"
+    },
+    {
+      "label": "Organize",
+      "permalink": "/tags/organize"
+    },
+    {
+      "label": "Distill",
+      "permalink": "/tags/distill"
+    },
+    {
+      "label": "Express",
+      "permalink": "/tags/express"
+    },
+    {
+      "label": "Archive",
+      "permalink": "/tags/archive"
+    }
+  ],
   "version": "current",
-  "frontMatter": {},
+  "lastUpdatedBy": "P.J. Wu 吳秉儒",
+  "lastUpdatedAt": 1676073600,
+  "formattedLastUpdatedAt": "2023年2月11日",
+  "frontMatter": {
+    "title": "Heptabase",
+    "last_update": {
+      "date": "2023-02-11T00:00:00.000Z",
+      "author": "P.J. Wu 吳秉儒"
+    },
+    "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
+    "slug": "/heptabase",
+    "tags": [
+      "Capture",
+      "Organize",
+      "Distill",
+      "Express",
+      "Archive"
+    ]
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "精選工具",
     "permalink": "/toolbox/featured"
   },
   "next": {
-    "title": "Tutorial - Extras",
-    "permalink": "/category/tutorial---extras"
+    "title": "不再使用的工具",
+    "permalink": "/unused-tools"
   }
 }

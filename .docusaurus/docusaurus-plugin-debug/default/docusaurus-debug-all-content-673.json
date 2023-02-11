@@ -11,29 +11,37 @@
           "className": "docs-version-current",
           "path": "/",
           "tagsPath": "/tags",
-          "editUrl": "https://github.com/wupingju/collections/edit/master/docs",
-          "editUrlLocalized": "https://github.com/wupingju/collections/edit/master/i18n/zh-TW/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/wupingju/library/edit/master/docs",
+          "editUrlLocalized": "https://github.com/wupingju/library/edit/master/i18n/zh-TW/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/pjwu/Documents/GitHub/collections/sidebars.js",
-          "contentPath": "/Users/pjwu/Documents/GitHub/collections/docs",
-          "contentPathLocalized": "/Users/pjwu/Documents/GitHub/collections/i18n/zh-TW/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/pjwu/Documents/GitHub/Library/sidebars.js",
+          "contentPath": "/Users/pjwu/Documents/GitHub/Library/docs",
+          "contentPathLocalized": "/Users/pjwu/Documents/GitHub/Library/i18n/zh-TW/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "README",
-              "id": "README",
-              "title": "關於這個站",
-              "description": "這是 Pin 起來 網站的子網站。",
-              "source": "@site/docs/README.md",
+              "unversionedId": "about",
+              "id": "about",
+              "title": "Pin 起來的收集箱",
+              "description": "關於這個站",
+              "source": "@site/docs/about.md",
               "sourceDirName": ".",
               "slug": "/",
               "permalink": "/",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/collections/edit/master/docs/README.md",
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/about.md",
               "tags": [],
               "version": "current",
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1676073600,
+              "formattedLastUpdatedAt": "2023年2月11日",
               "sidebarPosition": 1,
               "frontMatter": {
+                "title": "Pin 起來的收集箱",
+                "last_update": {
+                  "date": "2023-02-11T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
                 "sidebar_position": 1,
                 "slug": "/"
               },
@@ -44,77 +52,204 @@
               }
             },
             {
-              "unversionedId": "toolbox/featured/heptabase",
-              "id": "toolbox/featured/heptabase",
-              "title": "heptabase",
-              "description": "",
-              "source": "@site/docs/toolbox/featured/heptabase.md",
-              "sourceDirName": "toolbox/featured",
-              "slug": "/toolbox/featured/heptabase",
-              "permalink": "/toolbox/featured/heptabase",
+              "unversionedId": "changelog",
+              "id": "changelog",
+              "title": "Changelog",
+              "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 等頁面",
+              "source": "@site/docs/changelog.md",
+              "sourceDirName": ".",
+              "slug": "/changelog",
+              "permalink": "/changelog",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/collections/edit/master/docs/toolbox/featured/heptabase.md",
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/changelog.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1676073600,
+              "formattedLastUpdatedAt": "2023年2月11日",
+              "sidebarPosition": 99,
+              "frontMatter": {
+                "title": "Changelog",
+                "last_update": {
+                  "date": "2023-02-11T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "sidebar_position": 99,
+                "slug": "/changelog"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Logseq",
+                "permalink": "/logseq"
+              }
+            },
+            {
+              "unversionedId": "toolbox/featured/heptabase",
+              "id": "toolbox/featured/heptabase",
+              "title": "Heptabase",
+              "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
+              "source": "@site/docs/toolbox/featured/heptabase.md",
+              "sourceDirName": "toolbox/featured",
+              "slug": "/heptabase",
+              "permalink": "/heptabase",
+              "draft": false,
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/toolbox/featured/heptabase.md",
+              "tags": [
+                {
+                  "label": "Capture",
+                  "permalink": "/tags/capture"
+                },
+                {
+                  "label": "Organize",
+                  "permalink": "/tags/organize"
+                },
+                {
+                  "label": "Distill",
+                  "permalink": "/tags/distill"
+                },
+                {
+                  "label": "Express",
+                  "permalink": "/tags/express"
+                },
+                {
+                  "label": "Archive",
+                  "permalink": "/tags/archive"
+                }
+              ],
+              "version": "current",
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1676073600,
+              "formattedLastUpdatedAt": "2023年2月11日",
+              "frontMatter": {
+                "title": "Heptabase",
+                "last_update": {
+                  "date": "2023-02-11T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
+                "slug": "/heptabase",
+                "tags": [
+                  "Capture",
+                  "Organize",
+                  "Distill",
+                  "Express",
+                  "Archive"
+                ]
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "精選工具",
                 "permalink": "/toolbox/featured"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/category/tutorial---extras"
+                "title": "不再使用的工具",
+                "permalink": "/unused-tools"
               }
             },
             {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/tutorial-extras/manage-docs-versions",
+              "unversionedId": "unused/devonthink",
+              "id": "unused/devonthink",
+              "title": "DEVONthink",
+              "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+              "source": "@site/docs/unused/devonthink.md",
+              "sourceDirName": "unused",
+              "slug": "/devonthink",
+              "permalink": "/devonthink",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/collections/edit/master/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/unused/devonthink.md",
+              "tags": [
+                {
+                  "label": "Capture",
+                  "permalink": "/tags/capture"
+                },
+                {
+                  "label": "Organize",
+                  "permalink": "/tags/organize"
+                },
+                {
+                  "label": "Archive",
+                  "permalink": "/tags/archive"
+                }
+              ],
               "version": "current",
-              "sidebarPosition": 1,
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1671926400,
+              "formattedLastUpdatedAt": "2022年12月25日",
               "frontMatter": {
-                "sidebar_position": 1
+                "title": "DEVONthink",
+                "last_update": {
+                  "date": "2022-12-25T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+                "slug": "/devonthink",
+                "tags": [
+                  "Capture",
+                  "Organize",
+                  "Archive"
+                ]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/category/tutorial---extras"
+                "title": "不再使用的工具",
+                "permalink": "/unused-tools"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/tutorial-extras/translate-your-site"
+                "title": "Logseq",
+                "permalink": "/logseq"
               }
             },
             {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/tutorial-extras/translate-your-site",
+              "unversionedId": "unused/logseq",
+              "id": "unused/logseq",
+              "title": "Logseq",
+              "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
+              "source": "@site/docs/unused/logseq.md",
+              "sourceDirName": "unused",
+              "slug": "/logseq",
+              "permalink": "/logseq",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/collections/edit/master/docs/tutorial-extras/translate-your-site.md",
-              "tags": [],
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/unused/logseq.md",
+              "tags": [
+                {
+                  "label": "Capture",
+                  "permalink": "/tags/capture"
+                },
+                {
+                  "label": "Organize",
+                  "permalink": "/tags/organize"
+                },
+                {
+                  "label": "Distill",
+                  "permalink": "/tags/distill"
+                }
+              ],
               "version": "current",
-              "sidebarPosition": 2,
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1671926400,
+              "formattedLastUpdatedAt": "2022年12月25日",
               "frontMatter": {
-                "sidebar_position": 2
+                "title": "Logseq",
+                "last_update": {
+                  "date": "2022-12-25T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
+                "slug": "/logseq",
+                "tags": [
+                  "Capture",
+                  "Organize",
+                  "Distill"
+                ]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/tutorial-extras/manage-docs-versions"
+                "title": "DEVONthink",
+                "permalink": "/devonthink"
+              },
+              "next": {
+                "title": "Changelog",
+                "permalink": "/changelog"
               }
             }
           ],
@@ -123,7 +258,7 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "README"
+                "id": "about"
               },
               {
                 "type": "category",
@@ -159,24 +294,29 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "不再使用的工具",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "unused/devonthink"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "unused/logseq"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/category/tutorial---extras"
+                  "description": "我曾經用過，但不再使用的各種工具",
+                  "slug": "unused-tools",
+                  "permalink": "/unused-tools"
                 }
+              },
+              {
+                "type": "doc",
+                "id": "changelog"
               }
             ]
           }

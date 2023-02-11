@@ -4,52 +4,100 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '10d'),
+    component: ComponentCreator('/__docusaurus/debug', '8b6'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'b9e'),
+    component: ComponentCreator('/__docusaurus/debug/config', '6d3'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'f0f'),
+    component: ComponentCreator('/__docusaurus/debug/content', '71f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '819'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'ddb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '9f6'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'd75'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'e34'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '603'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '053'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '2a1'),
+    exact: true
+  },
+  {
+    path: '/tags',
+    component: ComponentCreator('/tags', '7fc'),
+    exact: true
+  },
+  {
+    path: '/tags/archive',
+    component: ComponentCreator('/tags/archive', 'da3'),
+    exact: true
+  },
+  {
+    path: '/tags/capture',
+    component: ComponentCreator('/tags/capture', 'f9a'),
+    exact: true
+  },
+  {
+    path: '/tags/distill',
+    component: ComponentCreator('/tags/distill', '3b5'),
+    exact: true
+  },
+  {
+    path: '/tags/express',
+    component: ComponentCreator('/tags/express', 'bf3'),
+    exact: true
+  },
+  {
+    path: '/tags/organize',
+    component: ComponentCreator('/tags/organize', '60e'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a10'),
+    component: ComponentCreator('/', 'dc2'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'dec'),
+        component: ComponentCreator('/', '58d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/category/tutorial---extras',
-        component: ComponentCreator('/category/tutorial---extras', '3d7'),
+        path: '/changelog',
+        component: ComponentCreator('/changelog', 'ef8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/devonthink',
+        component: ComponentCreator('/devonthink', '471'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/heptabase',
+        component: ComponentCreator('/heptabase', '965'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/logseq',
+        component: ComponentCreator('/logseq', '4eb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -66,20 +114,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/toolbox/featured/heptabase',
-        component: ComponentCreator('/toolbox/featured/heptabase', '67b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/tutorial-extras/manage-docs-versions', '975'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/tutorial-extras/translate-your-site', 'ac7'),
+        path: '/unused-tools',
+        component: ComponentCreator('/unused-tools', '759'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

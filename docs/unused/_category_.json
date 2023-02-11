@@ -1,0 +1,9 @@
+{
+  "label": "不再使用的工具",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "我曾經用過，但不再使用的各種工具",
+    "slug": "unused-tools"
+  }
+}

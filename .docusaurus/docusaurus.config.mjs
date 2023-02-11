@@ -7,7 +7,7 @@ export default {
   "title": "Pin 起來的收集箱",
   "tagline": "工具、服務、網站、書籍、電影",
   "favicon": "img/favicon.ico",
-  "url": "https://collections.pinchlime.com",
+  "url": "https://library.pinchlime.com",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
@@ -21,22 +21,29 @@ export default {
   },
   "presets": [
     [
-      "classic",
+      "@docusaurus/preset-classic",
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/pjwu/Documents/GitHub/collections/sidebars.js",
-          "editUrl": "https://github.com/wupingju/collections/edit/master/"
+          "sidebarPath": "/Users/pjwu/Documents/GitHub/Library/sidebars.js",
+          "editUrl": "https://github.com/wupingju/library/edit/master/",
+          "showLastUpdateTime": true
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/pjwu/Documents/GitHub/collections/src/css/custom.css"
+          "customCss": "/Users/pjwu/Documents/GitHub/Library/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "metadata": [
+      {
+        "name": "keywords",
+        "content": "生產力工具、效率工具、AI 工具"
+      }
+    ],
+    "image": "https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/og-02-1200-630_1hIeSM.png",
     "navbar": {
       "title": "Pin 起來的收集箱",
       "logo": {
@@ -45,10 +52,14 @@ export default {
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "README",
+          "to": "/toolbox",
           "position": "left",
-          "label": "Library"
+          "label": "工具箱"
+        },
+        {
+          "to": "/unused-tools",
+          "position": "left",
+          "label": "不再使用的工具"
         },
         {
           "href": "https://pinchlime.com",
@@ -65,8 +76,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Library",
-              "to": "/docs/README"
+              "label": "Changelog",
+              "to": "/changelog"
             }
           ]
         },
@@ -307,7 +318,6 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3

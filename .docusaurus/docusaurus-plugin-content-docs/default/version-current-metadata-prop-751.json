@@ -11,9 +11,9 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "關於這個站",
+        "label": "Pin 起來的收集箱",
         "href": "/",
-        "docId": "README"
+        "docId": "about"
       },
       {
         "type": "category",
@@ -29,8 +29,8 @@
             "items": [
               {
                 "type": "link",
-                "label": "heptabase",
-                "href": "/toolbox/featured/heptabase",
+                "label": "Heptabase",
+                "href": "/heptabase",
                 "docId": "toolbox/featured/heptabase"
               }
             ],
@@ -41,50 +41,62 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "不再使用的工具",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "label": "DEVONthink",
+            "href": "/devonthink",
+            "docId": "unused/devonthink"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "label": "Logseq",
+            "href": "/logseq",
+            "docId": "unused/logseq"
           }
         ],
-        "href": "/category/tutorial---extras"
+        "href": "/unused-tools"
+      },
+      {
+        "type": "link",
+        "label": "Changelog",
+        "href": "/changelog",
+        "docId": "changelog"
       }
     ]
   },
   "docs": {
-    "README": {
-      "id": "README",
-      "title": "關於這個站",
-      "description": "這是 Pin 起來 網站的子網站。",
+    "about": {
+      "id": "about",
+      "title": "Pin 起來的收集箱",
+      "description": "關於這個站",
+      "sidebar": "tutorialSidebar"
+    },
+    "changelog": {
+      "id": "changelog",
+      "title": "Changelog",
+      "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 等頁面",
       "sidebar": "tutorialSidebar"
     },
     "toolbox/featured/heptabase": {
       "id": "toolbox/featured/heptabase",
-      "title": "heptabase",
-      "description": "",
+      "title": "Heptabase",
+      "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "unused/devonthink": {
+      "id": "unused/devonthink",
+      "title": "DEVONthink",
+      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "unused/logseq": {
+      "id": "unused/logseq",
+      "title": "Logseq",
+      "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
       "sidebar": "tutorialSidebar"
     }
   }

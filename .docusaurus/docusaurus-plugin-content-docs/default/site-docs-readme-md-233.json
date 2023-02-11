@@ -1,18 +1,26 @@
 {
   "unversionedId": "README",
   "id": "README",
-  "title": "關於這個站",
-  "description": "這是 Pin 起來 網站的子網站。",
+  "title": "Pin 起來的收集箱",
+  "description": "關於這個站",
   "source": "@site/docs/README.md",
   "sourceDirName": ".",
   "slug": "/",
   "permalink": "/",
   "draft": false,
-  "editUrl": "https://github.com/wupingju/collections/edit/master/docs/README.md",
+  "editUrl": "https://github.com/wupingju/library/edit/master/docs/README.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "P.J. Wu 吳秉儒",
+  "lastUpdatedAt": 1676073600,
+  "formattedLastUpdatedAt": "2023年2月11日",
   "sidebarPosition": 1,
   "frontMatter": {
+    "title": "Pin 起來的收集箱",
+    "last_update": {
+      "date": "2023-02-11T00:00:00.000Z",
+      "author": "P.J. Wu 吳秉儒"
+    },
     "sidebar_position": 1,
     "slug": "/"
   },

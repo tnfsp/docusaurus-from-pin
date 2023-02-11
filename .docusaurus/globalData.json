@@ -8,26 +8,31 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "README",
+          "mainDocId": "about",
           "docs": [
             {
-              "id": "README",
+              "id": "about",
               "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "changelog",
+              "path": "/changelog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "toolbox/featured/heptabase",
-              "path": "/toolbox/featured/heptabase",
+              "path": "/heptabase",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tutorial-extras/manage-docs-versions",
+              "id": "unused/devonthink",
+              "path": "/devonthink",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/tutorial-extras/translate-your-site",
+              "id": "unused/logseq",
+              "path": "/logseq",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,8 +46,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/category/tutorial---extras",
+              "id": "unused-tools",
+              "path": "/unused-tools",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -51,7 +56,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/",
-                "label": "README"
+                "label": "about"
               }
             }
           }
