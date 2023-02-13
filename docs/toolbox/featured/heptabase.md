@@ -1,7 +1,7 @@
 ---
 title: Heptabase
 last_update: 
-    date: 2023-02-12
+    date: 2023-02-13
     author: P.J. Wu 吳秉儒
 description: Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性
 slug: /heptabase
@@ -47,10 +47,9 @@ tags:
 
 ### 固定格式
 我每天都透過 Keyboard Maestro 快速在 Journal 裡面記下幾項固定的標題，並且隨時記下相關的內容，它們包含：
-- Conversations ： 我感到有意義、有價值的對話
 - Fleets ： 我的閃念想法們
 - Events ： 記下當天發生的、我有感的事件，並且記下原因
-- People ： 記下當天接觸到的，我有感的人，並且記下原因
+- People & Conversations ： 記下當天接觸到的，我有感的人以及對話，並且記下原因
 - Findings ： 我發現了什麼
 - Readings ： 我讀的東西以及筆記卡片
 - Writings ： 我寫的內容
