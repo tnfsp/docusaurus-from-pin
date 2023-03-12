@@ -68,8 +68,13 @@ export default [
     exact: true
   },
   {
+    path: '/tags/prompts',
+    component: ComponentCreator('/tags/prompts', 'e9c'),
+    exact: true
+  },
+  {
     path: '/',
-    component: ComponentCreator('/', 'cc9'),
+    component: ComponentCreator('/', '56f'),
     routes: [
       {
         path: '/',
@@ -80,6 +85,18 @@ export default [
       {
         path: '/changelog',
         component: ComponentCreator('/changelog', 'ef8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/chatgpt/prompt/tutor',
+        component: ComponentCreator('/chatgpt/prompt/tutor', '1e5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/chatgpt/prompt/tutor',
+        component: ComponentCreator('/chatgpt/prompt/tutor', 'b98'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

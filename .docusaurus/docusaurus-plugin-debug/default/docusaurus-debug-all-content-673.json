@@ -56,7 +56,7 @@
               "unversionedId": "changelog",
               "id": "changelog",
               "title": "Changelog",
-              "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 、Docusaurus等頁面",
+              "description": "- 2023-02-12 ：update Heptabase",
               "source": "@site/docs/changelog.md",
               "sourceDirName": ".",
               "slug": "/changelog",
@@ -82,6 +82,92 @@
               "previous": {
                 "title": "Logseq",
                 "permalink": "/logseq"
+              },
+              "next": {
+                "title": "Tutor",
+                "permalink": "/chatgpt/prompt/tutor"
+              }
+            },
+            {
+              "unversionedId": "ChatGPT/Prompts/chatgpt-tutor",
+              "id": "ChatGPT/Prompts/chatgpt-tutor",
+              "title": "Tutor",
+              "description": "A prompt lets ChatGPT be a tutor of any topic.",
+              "source": "@site/docs/ChatGPT/Prompts/chatgpt-tutor.md",
+              "sourceDirName": "ChatGPT/Prompts",
+              "slug": "/chatgpt/prompt/tutor",
+              "permalink": "/chatgpt/prompt/tutor",
+              "draft": false,
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/ChatGPT/Prompts/chatgpt-tutor.md",
+              "tags": [
+                {
+                  "label": "Prompts",
+                  "permalink": "/tags/prompts"
+                }
+              ],
+              "version": "current",
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1678406400,
+              "formattedLastUpdatedAt": "2023年3月10日",
+              "frontMatter": {
+                "title": "Tutor",
+                "last_update": {
+                  "date": "2023-03-10T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "A prompt lets ChatGPT be a tutor of any topic.",
+                "slug": "/chatgpt/prompt/tutor",
+                "tags": [
+                  "Prompts"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Changelog",
+                "permalink": "/changelog"
+              },
+              "next": {
+                "title": "iWhat",
+                "permalink": "/chatgpt/prompt/tutor"
+              }
+            },
+            {
+              "unversionedId": "ChatGPT/Prompts/i-what",
+              "id": "ChatGPT/Prompts/i-what",
+              "title": "iWhat",
+              "description": "A prompt lets ChatGPT provide a possible answer and a description of a specific term.",
+              "source": "@site/docs/ChatGPT/Prompts/i-what.md",
+              "sourceDirName": "ChatGPT/Prompts",
+              "slug": "/chatgpt/prompt/tutor",
+              "permalink": "/chatgpt/prompt/tutor",
+              "draft": false,
+              "editUrl": "https://github.com/wupingju/library/edit/master/docs/ChatGPT/Prompts/i-what.md",
+              "tags": [
+                {
+                  "label": "Prompts",
+                  "permalink": "/tags/prompts"
+                }
+              ],
+              "version": "current",
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1678579200,
+              "formattedLastUpdatedAt": "2023年3月12日",
+              "frontMatter": {
+                "title": "iWhat",
+                "last_update": {
+                  "date": "2023-03-12T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "A prompt lets ChatGPT provide a possible answer and a description of a specific term.",
+                "slug": "/chatgpt/prompt/tutor",
+                "tags": [
+                  "Prompts"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutor",
+                "permalink": "/chatgpt/prompt/tutor"
               }
             },
             {
@@ -162,12 +248,12 @@
               ],
               "version": "current",
               "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1676073600,
-              "formattedLastUpdatedAt": "2023年2月11日",
+              "lastUpdatedAt": 1676246400,
+              "formattedLastUpdatedAt": "2023年2月13日",
               "frontMatter": {
                 "title": "Heptabase",
                 "last_update": {
-                  "date": "2023-02-11T00:00:00.000Z",
+                  "date": "2023-02-13T00:00:00.000Z",
                   "author": "P.J. Wu 吳秉儒"
                 },
                 "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
@@ -379,6 +465,30 @@
               {
                 "type": "doc",
                 "id": "changelog"
+              },
+              {
+                "type": "category",
+                "label": "ChatGPT",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Prompts",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "ChatGPT/Prompts/chatgpt-tutor"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "ChatGPT/Prompts/i-what"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }

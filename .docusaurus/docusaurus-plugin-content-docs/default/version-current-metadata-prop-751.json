@@ -80,6 +80,34 @@
         "label": "Changelog",
         "href": "/changelog",
         "docId": "changelog"
+      },
+      {
+        "type": "category",
+        "label": "ChatGPT",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Prompts",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Tutor",
+                "href": "/chatgpt/prompt/tutor",
+                "docId": "ChatGPT/Prompts/chatgpt-tutor"
+              },
+              {
+                "type": "link",
+                "label": "iWhat",
+                "href": "/chatgpt/prompt/tutor",
+                "docId": "ChatGPT/Prompts/i-what"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -93,7 +121,19 @@
     "changelog": {
       "id": "changelog",
       "title": "Changelog",
-      "description": "2023-02-11 ：建立 Heptabase、Logseq、DEVONthink 、Docusaurus等頁面",
+      "description": "- 2023-02-12 ：update Heptabase",
+      "sidebar": "tutorialSidebar"
+    },
+    "ChatGPT/Prompts/chatgpt-tutor": {
+      "id": "ChatGPT/Prompts/chatgpt-tutor",
+      "title": "Tutor",
+      "description": "A prompt lets ChatGPT be a tutor of any topic.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ChatGPT/Prompts/i-what": {
+      "id": "ChatGPT/Prompts/i-what",
+      "title": "iWhat",
+      "description": "A prompt lets ChatGPT provide a possible answer and a description of a specific term.",
       "sidebar": "tutorialSidebar"
     },
     "toolbox/express/docusaurus": {

@@ -84,7 +84,14 @@
     },
     "tag": "tag---tags-organize-9-a-4-0e7"
   },
-  "/-cc9": {
+  "/tags/prompts-e9c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---tagsa-38-513"
+    },
+    "tag": "tag---tags-promptsc-89-558"
+  },
+  "/-56f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-38-513"
@@ -99,13 +106,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---changelog-9-be-13d"
   },
+  "/chatgpt/prompt/tutor-1e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---chatgpt-prompt-tutor-1-c-6-b08"
+  },
+  "/chatgpt/prompt/tutor-b98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---chat-gpt-prompts-i-what-5-ca-717"
+  },
   "/devonthink-471": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---devonthink-341-2c6"
   },
   "/docusaurus-8ca": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---toolbox-express-docusaurusc-4-b-05c"
+    "content": "content---docusaurusc-4-b-1af"
   },
   "/heptabase-965": {
     "__comp": "__comp---theme-doc-item-178-a40",

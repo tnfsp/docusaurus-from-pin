@@ -21,6 +21,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "ChatGPT/Prompts/chatgpt-tutor",
+              "path": "/chatgpt/prompt/tutor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ChatGPT/Prompts/i-what",
+              "path": "/chatgpt/prompt/tutor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "toolbox/express/docusaurus",
               "path": "/docusaurus",
               "sidebar": "tutorialSidebar"
