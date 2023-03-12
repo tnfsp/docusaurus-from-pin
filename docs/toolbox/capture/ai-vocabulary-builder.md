@@ -3,7 +3,7 @@ title: AI vocabulary builder
 last_update: 
     date: 2023-03-12
     author: P.J. Wu 吳秉儒
-description: Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性
+description: 這是一個透過「命令行工具」及 ChatGPT api 建構的工具，能夠讓我輸入某句英文句子後，自動偵測「我可能不熟悉」的英文單字，並且提供單字與例句的翻譯，再將該單字加入單字本。
 slug: /ai-vocabulary-builder
 tags:
     - Capture
