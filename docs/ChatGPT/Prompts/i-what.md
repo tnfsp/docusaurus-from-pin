@@ -4,7 +4,7 @@ last_update:
     date: 2023-03-12
     author: P.J. Wu 吳秉儒
 description: A prompt lets ChatGPT provide a possible answer and a description of a specific term. 
-slug: /chatgpt/prompt/tutor
+slug: /chatgpt/prompt/iwhat
 tags:
     - Prompts
 ---
