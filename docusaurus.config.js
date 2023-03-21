@@ -99,14 +99,19 @@ module.exports = {
       },
       items: [
         {
-          to: '/life',
+          to: '/blog',
           position: 'left',
-          label: '日常 Life',
+          label: '文章 Blog',
         },
         {
-          to: '/medicine',
+          to: '/snapshot',
           position: 'left',
-          label: '醫學 Medicine',
+          label: '短想法 Snapshots',
+        },
+        {
+          to: '/collection',
+          position: 'left',
+          label: '蒐集 Collection',
         },
       ],
     },
