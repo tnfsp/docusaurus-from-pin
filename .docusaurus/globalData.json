@@ -26,63 +26,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "life/logseq",
-              "path": "/logseq",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine/cardiology/ai-vocabulary-builder",
-              "path": "/ai-vocabulary-builder",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine/echocardiogram/heptabase",
-              "path": "/heptabase",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine/intensive-care/docusaurus",
-              "path": "/docusaurus",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tool/devonthink",
-              "path": "/devonthink",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tool/logseq",
-              "path": "/logseq",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "life",
               "path": "/life",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine",
-              "path": "/medicine",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine/cardiology",
-              "path": "/medicine/cardiology",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "toolbox/featured",
-              "path": "/toolbox/featured",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine/intensive-care",
-              "path": "/medicine/intensive-care",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tool",
-              "path": "/tool",
               "sidebar": "tutorialSidebar"
             }
           ],

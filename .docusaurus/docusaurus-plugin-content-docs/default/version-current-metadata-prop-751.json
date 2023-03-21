@@ -26,90 +26,9 @@
             "label": "DEVONthink",
             "href": "/devonthink",
             "docId": "life/devonthink"
-          },
-          {
-            "type": "link",
-            "label": "Logseq",
-            "href": "/logseq",
-            "docId": "life/logseq"
           }
         ],
         "href": "/life"
-      },
-      {
-        "type": "category",
-        "label": "醫學 Medicine",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "category",
-            "label": "心臟科 Cardiology",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "AI vocabulary builder",
-                "href": "/ai-vocabulary-builder",
-                "docId": "medicine/cardiology/ai-vocabulary-builder"
-              }
-            ],
-            "href": "/medicine/cardiology"
-          },
-          {
-            "type": "category",
-            "label": "心臟超音波 Echocardiogram",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Heptabase",
-                "href": "/heptabase",
-                "docId": "medicine/echocardiogram/heptabase"
-              }
-            ],
-            "href": "/toolbox/featured"
-          },
-          {
-            "type": "category",
-            "label": "重症醫學 Intensive care",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Docusaurus",
-                "href": "/docusaurus",
-                "docId": "medicine/intensive-care/docusaurus"
-              }
-            ],
-            "href": "/medicine/intensive-care"
-          }
-        ],
-        "href": "/medicine"
-      },
-      {
-        "type": "category",
-        "label": "小工具 tool ",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "DEVONthink",
-            "href": "/devonthink",
-            "docId": "tool/devonthink"
-          },
-          {
-            "type": "link",
-            "label": "Logseq",
-            "href": "/logseq",
-            "docId": "tool/logseq"
-          }
-        ],
-        "href": "/tool"
       },
       {
         "type": "link",
@@ -136,42 +55,6 @@
       "id": "life/devonthink",
       "title": "DEVONthink",
       "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
-      "sidebar": "tutorialSidebar"
-    },
-    "life/logseq": {
-      "id": "life/logseq",
-      "title": "Logseq",
-      "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
-      "sidebar": "tutorialSidebar"
-    },
-    "medicine/cardiology/ai-vocabulary-builder": {
-      "id": "medicine/cardiology/ai-vocabulary-builder",
-      "title": "AI vocabulary builder",
-      "description": "這是一個透過「命令行工具」及 ChatGPT api 建構的工具，能夠讓我輸入某句英文句子後，自動偵測「我可能不熟悉」的英文單字，並且提供單字與例句的翻譯，再將該單字加入單字本。",
-      "sidebar": "tutorialSidebar"
-    },
-    "medicine/echocardiogram/heptabase": {
-      "id": "medicine/echocardiogram/heptabase",
-      "title": "Heptabase",
-      "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
-      "sidebar": "tutorialSidebar"
-    },
-    "medicine/intensive-care/docusaurus": {
-      "id": "medicine/intensive-care/docusaurus",
-      "title": "Docusaurus",
-      "description": "Docusaurus 是我在 2023 年 2 月無意間發現的靜態網站產生器，他有很乾淨易懂的官方文件，並且預設的介面就有完整的功能，包含兩欄式的 docs 瀏覽介面、 dark mode 、 友善 SEO 的網頁檔案架構等等。",
-      "sidebar": "tutorialSidebar"
-    },
-    "tool/devonthink": {
-      "id": "tool/devonthink",
-      "title": "DEVONthink",
-      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
-      "sidebar": "tutorialSidebar"
-    },
-    "tool/logseq": {
-      "id": "tool/logseq",
-      "title": "Logseq",
-      "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
       "sidebar": "tutorialSidebar"
     }
   }

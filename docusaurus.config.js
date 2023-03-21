@@ -47,13 +47,13 @@ module.exports = {
   ],
 
   themeConfig: {
-    metadata: [{name: 'keywords', content: '醫院生活、冒險故事、讓你變得更好的東東'}],
+    metadata: [{name: 'keywords', content: '心臟外科、重症醫學、心臟超音波'}],
     image: 'https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/og-02-1200-630_1hIeSM.png',
     navbar: {
       title: '春熊の心臟醫學',
       logo: {
         alt: '春熊の心臟醫學',
-        src: 'https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-logo-02-no-sub-96x96_Bgz9Ey.webp',
+        src: 'img/favicon1.png',
       },
       items: [
         {

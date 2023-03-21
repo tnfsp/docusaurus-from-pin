@@ -48,7 +48,7 @@ export default {
       "title": "春熊の心臟醫學",
       "logo": {
         "alt": "春熊の心臟醫學",
-        "src": "https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-logo-02-no-sub-96x96_Bgz9Ey.webp"
+        "src": "img/favicon1.png"
       },
       "items": [
         {
