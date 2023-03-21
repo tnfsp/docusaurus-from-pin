@@ -29,9 +29,9 @@ Collection 蒐集：各類型清單（書單、電影、歌單等）
 ### 提供住院醫師、醫學生實用的醫學知識
   
 心臟科 Cardiology：心臟疾病總覽    
-心臟超音波 Cardioechogram ：心臟超音波學習  
+心臟超音波 Cardioechogram ：超音波學習  
 手術 Operation：實用外科技巧  
-重症醫學 Intensive Care：新進住院醫師臨床指引    
+重症醫學 Intensive Care：住院醫師臨床指引    
    
 ## 小工具 Tool  
   
