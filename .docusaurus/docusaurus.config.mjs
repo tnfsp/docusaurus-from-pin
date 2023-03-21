@@ -37,6 +37,19 @@ export default {
     ]
   ],
   "themeConfig": {
+    "algolia": {
+      "appId": "N8VTM1LPAT",
+      "apiKey": "19da408b84e8b9e95c4dc2cebd0892dc",
+      "indexName": "wilsonchao.com",
+      "contextualSearch": true,
+      "externalUrlRegex": "external\\.com|domain\\.com",
+      "replaceSearchResultPathname": {
+        "from": "/docs/",
+        "to": "/"
+      },
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "metadata": [
       {
         "name": "keywords",

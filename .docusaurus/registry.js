@@ -1,6 +1,7 @@
 export default {
   '14eb3368': [() => import(/* webpackChunkName: '14eb3368' */ '@theme/DocCategoryGeneratedIndexPage'), '@theme/DocCategoryGeneratedIndexPage', require.resolveWeak('@theme/DocCategoryGeneratedIndexPage')],
   '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
+  '1a4e3797': [() => import(/* webpackChunkName: '1a4e3797' */ '@theme/SearchPage'), '@theme/SearchPage', require.resolveWeak('@theme/SearchPage')],
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
   '2c786f08': [() => import(/* webpackChunkName: '2c786f08' */ '@site/docs/life/devonthink.md'), '@site/docs/life/devonthink.md', require.resolveWeak('@site/docs/life/devonthink.md')],
   '3720c009': [() => import(/* webpackChunkName: '3720c009' */ '@theme/DocTagsListPage'), '@theme/DocTagsListPage', require.resolveWeak('@theme/DocTagsListPage')],
@@ -14,6 +15,7 @@ export default {
   '9a43053f': [() => import(/* webpackChunkName: '9a43053f' */ '~docs/default/tag-tags-organize-45b.json'), '~docs/default/tag-tags-organize-45b.json', require.resolveWeak('~docs/default/tag-tags-organize-45b.json')],
   '9beb87c2': [() => import(/* webpackChunkName: '9beb87c2' */ '@site/docs/changelog.md'), '@site/docs/changelog.md', require.resolveWeak('@site/docs/changelog.md')],
   '9ce1fe1e': [() => import(/* webpackChunkName: '9ce1fe1e' */ '/workspaces/docusaurus-from-pin/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json'), '/workspaces/docusaurus-from-pin/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json', require.resolveWeak('/workspaces/docusaurus-from-pin/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json')],
+  'cc8e5ba2': [() => import(/* webpackChunkName: 'cc8e5ba2' */ '/workspaces/docusaurus-from-pin/.docusaurus/docusaurus-theme-search-algolia/default/plugin-route-context-module-100.json'), '/workspaces/docusaurus-from-pin/.docusaurus/docusaurus-theme-search-algolia/default/plugin-route-context-module-100.json', require.resolveWeak('/workspaces/docusaurus-from-pin/.docusaurus/docusaurus-theme-search-algolia/default/plugin-route-context-module-100.json')],
   'cfd1bd43': [() => import(/* webpackChunkName: 'cfd1bd43' */ '@site/docs/tool/test1.md'), '@site/docs/tool/test1.md', require.resolveWeak('@site/docs/tool/test1.md')],
   'd9853591': [() => import(/* webpackChunkName: 'd9853591' */ '~docs/default/tag-tags-capture-417.json'), '~docs/default/tag-tags-capture-417.json', require.resolveWeak('~docs/default/tag-tags-capture-417.json')],
   'df203c0f': [() => import(/* webpackChunkName: 'df203c0f' */ '@theme/DocTagDocListPage'), '@theme/DocTagDocListPage', require.resolveWeak('@theme/DocTagDocListPage')],
