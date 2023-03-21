@@ -11,282 +11,116 @@
           "className": "docs-version-current",
           "path": "/",
           "tagsPath": "/tags",
-          "editUrl": "https://github.com/wupingju/library/edit/master/docs",
-          "editUrlLocalized": "https://github.com/wupingju/library/edit/master/i18n/zh-TW/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs",
+          "editUrlLocalized": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/i18n/zh-TW/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/pjwu/Documents/GitHub/Library/sidebars.js",
-          "contentPath": "/Users/pjwu/Documents/GitHub/Library/docs",
-          "contentPathLocalized": "/Users/pjwu/Documents/GitHub/Library/i18n/zh-TW/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/workspaces/docusaurus-from-pin/sidebars.js",
+          "contentPath": "/workspaces/docusaurus-from-pin/docs",
+          "contentPathLocalized": "/workspaces/docusaurus-from-pin/i18n/zh-TW/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "about",
               "id": "about",
               "title": "About This Site",
-              "description": "這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。",
+              "description": "歡迎來到春熊の心臟醫學！我是春熊，一位專注於心臟外科和重症醫學的醫生。在這個網站上，我將與您分享我的經驗、知識和心得，以及我在這個令人振奮的領域中所面臨的挑戰。",
               "source": "@site/docs/about.md",
               "sourceDirName": ".",
               "slug": "/",
               "permalink": "/",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/about.md",
+              "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs/about.md",
               "tags": [],
               "version": "current",
-              "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1676073600,
-              "formattedLastUpdatedAt": "2023年2月11日",
+              "lastUpdatedBy": "H.S. Chao 趙玴祥",
+              "lastUpdatedAt": 1678752000,
+              "formattedLastUpdatedAt": "2023年3月14日",
               "sidebarPosition": 1,
               "frontMatter": {
                 "title": "About This Site",
                 "last_update": {
-                  "date": "2023-02-11T00:00:00.000Z",
-                  "author": "P.J. Wu 吳秉儒"
+                  "date": "2023-03-14T00:00:00.000Z",
+                  "author": "H.S. Chao 趙玴祥"
                 },
                 "sidebar_position": 1,
-                "description": "這個網站是 Pin 起來的子網站。用途是拿來放置我收集的各種東西。包含我正在使用的工具、已經沒在使用的工具、我推薦的網站、對我影響深遠的文章、我閱讀過的書 ... 等等。",
+                "description": "歡迎來到春熊の心臟醫學！我是春熊，一位專注於心臟外科和重症醫學的醫生。在這個網站上，我將與您分享我的經驗、知識和心得，以及我在這個令人振奮的領域中所面臨的挑戰。",
                 "slug": "/"
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Toolbox",
-                "permalink": "/toolbox"
+                "title": "日常 Life ",
+                "permalink": "/life"
               }
             },
             {
               "unversionedId": "changelog",
               "id": "changelog",
               "title": "Changelog",
-              "description": "- 2023-02-12 ：update Heptabase",
+              "description": "- 2023-03-21 ：建立這個網站",
               "source": "@site/docs/changelog.md",
               "sourceDirName": ".",
               "slug": "/changelog",
               "permalink": "/changelog",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/changelog.md",
+              "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs/changelog.md",
               "tags": [],
               "version": "current",
-              "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1676073600,
-              "formattedLastUpdatedAt": "2023年2月11日",
+              "lastUpdatedBy": "Y.H. Chao 趙玴祥",
+              "lastUpdatedAt": 1679356800,
+              "formattedLastUpdatedAt": "2023年3月21日",
               "sidebarPosition": 99,
               "frontMatter": {
                 "title": "Changelog",
                 "last_update": {
-                  "date": "2023-02-11T00:00:00.000Z",
-                  "author": "P.J. Wu 吳秉儒"
+                  "date": "2023-03-21T00:00:00.000Z",
+                  "author": "Y.H. Chao 趙玴祥"
                 },
                 "sidebar_position": 99,
                 "slug": "/changelog"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Logseq",
-                "permalink": "/logseq"
+                "title": "DEVONthink",
+                "permalink": "/devonthink"
               },
               "next": {
-                "title": "Tutor",
-                "permalink": "/chatgpt/prompt/tutor"
+                "title": "comments",
+                "permalink": "/comments"
               }
             },
             {
-              "unversionedId": "ChatGPT/Prompts/chatgpt-tutor",
-              "id": "ChatGPT/Prompts/chatgpt-tutor",
-              "title": "Tutor",
-              "description": "A prompt lets ChatGPT be a tutor of any topic.",
-              "source": "@site/docs/ChatGPT/Prompts/chatgpt-tutor.md",
-              "sourceDirName": "ChatGPT/Prompts",
-              "slug": "/chatgpt/prompt/tutor",
-              "permalink": "/chatgpt/prompt/tutor",
+              "unversionedId": "comments",
+              "id": "comments",
+              "title": "comments",
+              "description": "",
+              "source": "@site/docs/comments.md",
+              "sourceDirName": ".",
+              "slug": "/comments",
+              "permalink": "/comments",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/ChatGPT/Prompts/chatgpt-tutor.md",
-              "tags": [
-                {
-                  "label": "Prompts",
-                  "permalink": "/tags/prompts"
-                }
-              ],
+              "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs/comments.md",
+              "tags": [],
               "version": "current",
-              "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1678406400,
-              "formattedLastUpdatedAt": "2023年3月10日",
-              "frontMatter": {
-                "title": "Tutor",
-                "last_update": {
-                  "date": "2023-03-10T00:00:00.000Z",
-                  "author": "P.J. Wu 吳秉儒"
-                },
-                "description": "A prompt lets ChatGPT be a tutor of any topic.",
-                "slug": "/chatgpt/prompt/tutor",
-                "tags": [
-                  "Prompts"
-                ]
-              },
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018年10月14日",
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Changelog",
                 "permalink": "/changelog"
-              },
-              "next": {
-                "title": "iWhat",
-                "permalink": "/chatgpt/prompt/tutor"
               }
             },
             {
-              "unversionedId": "ChatGPT/Prompts/i-what",
-              "id": "ChatGPT/Prompts/i-what",
-              "title": "iWhat",
-              "description": "A prompt lets ChatGPT provide a possible answer and a description of a specific term.",
-              "source": "@site/docs/ChatGPT/Prompts/i-what.md",
-              "sourceDirName": "ChatGPT/Prompts",
-              "slug": "/chatgpt/prompt/tutor",
-              "permalink": "/chatgpt/prompt/tutor",
-              "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/ChatGPT/Prompts/i-what.md",
-              "tags": [
-                {
-                  "label": "Prompts",
-                  "permalink": "/tags/prompts"
-                }
-              ],
-              "version": "current",
-              "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1678579200,
-              "formattedLastUpdatedAt": "2023年3月12日",
-              "frontMatter": {
-                "title": "iWhat",
-                "last_update": {
-                  "date": "2023-03-12T00:00:00.000Z",
-                  "author": "P.J. Wu 吳秉儒"
-                },
-                "description": "A prompt lets ChatGPT provide a possible answer and a description of a specific term.",
-                "slug": "/chatgpt/prompt/tutor",
-                "tags": [
-                  "Prompts"
-                ]
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutor",
-                "permalink": "/chatgpt/prompt/tutor"
-              }
-            },
-            {
-              "unversionedId": "toolbox/express/docusaurus",
-              "id": "toolbox/express/docusaurus",
-              "title": "Docusaurus",
-              "description": "Docusaurus 是我在 2023 年 2 月無意間發現的靜態網站產生器，他有很乾淨易懂的官方文件，並且預設的介面就有完整的功能，包含兩欄式的 docs 瀏覽介面、 dark mode 、 友善 SEO 的網頁檔案架構等等。",
-              "source": "@site/docs/toolbox/express/docusaurus.md",
-              "sourceDirName": "toolbox/express",
-              "slug": "/docusaurus",
-              "permalink": "/docusaurus",
-              "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/toolbox/express/docusaurus.md",
-              "tags": [
-                {
-                  "label": "Express",
-                  "permalink": "/tags/express"
-                }
-              ],
-              "version": "current",
-              "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1676073600,
-              "formattedLastUpdatedAt": "2023年2月11日",
-              "frontMatter": {
-                "title": "Docusaurus",
-                "last_update": {
-                  "date": "2023-02-11T00:00:00.000Z",
-                  "author": "P.J. Wu 吳秉儒"
-                },
-                "description": "Docusaurus 是我在 2023 年 2 月無意間發現的靜態網站產生器，他有很乾淨易懂的官方文件，並且預設的介面就有完整的功能，包含兩欄式的 docs 瀏覽介面、 dark mode 、 友善 SEO 的網頁檔案架構等等。",
-                "slug": "/docusaurus",
-                "tags": [
-                  "Express"
-                ]
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Express",
-                "permalink": "/toolbox/express"
-              },
-              "next": {
-                "title": "Unused Tools",
-                "permalink": "/unused-tools"
-              }
-            },
-            {
-              "unversionedId": "toolbox/featured/heptabase",
-              "id": "toolbox/featured/heptabase",
-              "title": "Heptabase",
-              "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
-              "source": "@site/docs/toolbox/featured/heptabase.md",
-              "sourceDirName": "toolbox/featured",
-              "slug": "/heptabase",
-              "permalink": "/heptabase",
-              "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/toolbox/featured/heptabase.md",
-              "tags": [
-                {
-                  "label": "Capture",
-                  "permalink": "/tags/capture"
-                },
-                {
-                  "label": "Organize",
-                  "permalink": "/tags/organize"
-                },
-                {
-                  "label": "Distill",
-                  "permalink": "/tags/distill"
-                },
-                {
-                  "label": "Express",
-                  "permalink": "/tags/express"
-                },
-                {
-                  "label": "Archive",
-                  "permalink": "/tags/archive"
-                }
-              ],
-              "version": "current",
-              "lastUpdatedBy": "P.J. Wu 吳秉儒",
-              "lastUpdatedAt": 1676246400,
-              "formattedLastUpdatedAt": "2023年2月13日",
-              "frontMatter": {
-                "title": "Heptabase",
-                "last_update": {
-                  "date": "2023-02-13T00:00:00.000Z",
-                  "author": "P.J. Wu 吳秉儒"
-                },
-                "description": "Heptabase 是一個由卡片、白板、文字編輯器組合而成的生產力工具，透過卡片這個最小層級的單位串連起不同的內容，無論是知識、想法、筆記都可以在上面輕易地組織並建立關聯性",
-                "slug": "/heptabase",
-                "tags": [
-                  "Capture",
-                  "Organize",
-                  "Distill",
-                  "Express",
-                  "Archive"
-                ]
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Featured",
-                "permalink": "/toolbox/featured"
-              },
-              "next": {
-                "title": "Express",
-                "permalink": "/toolbox/express"
-              }
-            },
-            {
-              "unversionedId": "unused/devonthink",
-              "id": "unused/devonthink",
+              "unversionedId": "life/devonthink",
+              "id": "life/devonthink",
               "title": "DEVONthink",
               "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
-              "source": "@site/docs/unused/devonthink.md",
-              "sourceDirName": "unused",
+              "source": "@site/docs/life/devonthink.md",
+              "sourceDirName": "life",
               "slug": "/devonthink",
               "permalink": "/devonthink",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/unused/devonthink.md",
+              "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs/life/devonthink.md",
               "tags": [
                 {
                   "label": "Capture",
@@ -321,25 +155,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Unused Tools",
-                "permalink": "/unused-tools"
+                "title": "日常 Life ",
+                "permalink": "/life"
               },
               "next": {
-                "title": "Logseq",
-                "permalink": "/logseq"
+                "title": "醫學 Medicine",
+                "permalink": "/medicine"
               }
             },
             {
-              "unversionedId": "unused/logseq",
-              "id": "unused/logseq",
-              "title": "Logseq",
-              "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
-              "source": "@site/docs/unused/logseq.md",
-              "sourceDirName": "unused",
-              "slug": "/logseq",
-              "permalink": "/logseq",
+              "unversionedId": "medicine/cardiology/test2",
+              "id": "medicine/cardiology/test2",
+              "title": "DEVONthink",
+              "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+              "source": "@site/docs/medicine/cardiology/test2.md",
+              "sourceDirName": "medicine/cardiology",
+              "slug": "/devonthink",
+              "permalink": "/devonthink",
               "draft": false,
-              "editUrl": "https://github.com/wupingju/library/edit/master/docs/unused/logseq.md",
+              "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs/medicine/cardiology/test2.md",
               "tags": [
                 {
                   "label": "Capture",
@@ -350,8 +184,8 @@
                   "permalink": "/tags/organize"
                 },
                 {
-                  "label": "Distill",
-                  "permalink": "/tags/distill"
+                  "label": "Archive",
+                  "permalink": "/tags/archive"
                 }
               ],
               "version": "current",
@@ -359,23 +193,76 @@
               "lastUpdatedAt": 1671926400,
               "formattedLastUpdatedAt": "2022年12月25日",
               "frontMatter": {
-                "title": "Logseq",
+                "title": "DEVONthink",
                 "last_update": {
                   "date": "2022-12-25T00:00:00.000Z",
                   "author": "P.J. Wu 吳秉儒"
                 },
-                "description": "Logseq 是一個無限層級的大綱軟體，以每日紀錄為核心，有著完整的雙向連結功能，鍵盤操作體驗相當順暢，並且檔案格式是最輕便可攜的 markdown 格式，一切都存放於自己的本機資料夾中。",
-                "slug": "/logseq",
+                "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+                "slug": "/devonthink",
                 "tags": [
                   "Capture",
                   "Organize",
-                  "Distill"
+                  "Archive"
                 ]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
+                "title": "心臟科 Cardiology",
+                "permalink": "/medicine/cardiology"
+              },
+              "next": {
+                "title": "小工具 tool ",
+                "permalink": "/tool"
+              }
+            },
+            {
+              "unversionedId": "tool/test1",
+              "id": "tool/test1",
+              "title": "DEVONthink",
+              "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+              "source": "@site/docs/tool/test1.md",
+              "sourceDirName": "tool",
+              "slug": "/devonthink",
+              "permalink": "/devonthink",
+              "draft": false,
+              "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/docs/tool/test1.md",
+              "tags": [
+                {
+                  "label": "Capture",
+                  "permalink": "/tags/capture"
+                },
+                {
+                  "label": "Organize",
+                  "permalink": "/tags/organize"
+                },
+                {
+                  "label": "Archive",
+                  "permalink": "/tags/archive"
+                }
+              ],
+              "version": "current",
+              "lastUpdatedBy": "P.J. Wu 吳秉儒",
+              "lastUpdatedAt": 1671926400,
+              "formattedLastUpdatedAt": "2022年12月25日",
+              "frontMatter": {
                 "title": "DEVONthink",
-                "permalink": "/devonthink"
+                "last_update": {
+                  "date": "2022-12-25T00:00:00.000Z",
+                  "author": "P.J. Wu 吳秉儒"
+                },
+                "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+                "slug": "/devonthink",
+                "tags": [
+                  "Capture",
+                  "Organize",
+                  "Archive"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "小工具 tool ",
+                "permalink": "/tool"
               },
               "next": {
                 "title": "Changelog",
@@ -392,74 +279,70 @@
               },
               {
                 "type": "category",
-                "label": "Toolbox",
+                "label": "日常 Life ",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "category",
-                    "label": "Featured",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "toolbox/featured/heptabase"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "精選工具（Featured）是同時具備多種不同屬性的工具，他們在我的工作流程中扮演重要角色。",
-                      "slug": "toolbox/featured",
-                      "permalink": "/toolbox/featured"
-                    }
-                  },
-                  {
-                    "type": "category",
-                    "label": "Express",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "toolbox/express/docusaurus"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "表達（Express）類型的工具，定位是讓我能將零散的想法轉化為完整的文字向外輸出，這類工具可能有著適合撰寫文字的功能，或者本身就有好的發布與曝光機制。",
-                      "slug": "toolbox/express",
-                      "permalink": "/toolbox/express"
-                    }
+                    "type": "doc",
+                    "id": "life/devonthink"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Toolbox 裡面有我所使用的各種工具，包含精選工具（Featured）、擷取工具（Capture）、整理工具（Organize）、提煉工具（Distill）、表達工具（Express）、歸檔工具（Archive）、效率工具（Efficiency）等不同類型。",
-                  "slug": "toolbox",
-                  "permalink": "/toolbox"
+                  "description": "日常生活的各種想法",
+                  "slug": "life",
+                  "permalink": "/life"
                 }
               },
               {
                 "type": "category",
-                "label": "Unused Tools",
+                "label": "醫學 Medicine",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "心臟科 Cardiology",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "medicine/cardiology/test2"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "心臟科知識",
+                      "slug": "medicine/cardiology",
+                      "permalink": "/medicine/cardiology"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "醫學知識筆記彙整",
+                  "slug": "medicine",
+                  "permalink": "/medicine"
+                }
+              },
+              {
+                "type": "category",
+                "label": "小工具 tool ",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "unused/devonthink"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unused/logseq"
+                    "id": "tool/test1"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "我曾經用過，但不再使用的各種工具",
-                  "slug": "unused-tools",
-                  "permalink": "/unused-tools"
+                  "description": "醫學常用小工具",
+                  "slug": "tool",
+                  "permalink": "/tool"
                 }
               },
               {
@@ -467,28 +350,8 @@
                 "id": "changelog"
               },
               {
-                "type": "category",
-                "label": "ChatGPT",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "Prompts",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "ChatGPT/Prompts/chatgpt-tutor"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "ChatGPT/Prompts/i-what"
-                      }
-                    ]
-                  }
-                ]
+                "type": "doc",
+                "id": "comments"
               }
             ]
           }
@@ -501,6 +364,8 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-plugin-client-redirects": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

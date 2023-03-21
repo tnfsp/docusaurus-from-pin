@@ -6,7 +6,7 @@ services:
     container_name: "remark42"
     environment:
       - REMARK_URL=https://wilsonchao.com
-      - SECRET=some-secret-key
+      - SECRET=aa2350089
       - STORE_BOLT_PATH=/srv/var/remark.db
       - BACKUP_PATH=/srv/var/backup
       - AUTH_ANON=true
