@@ -1,0 +1,9 @@
+{
+  "label": "心臟科 Cardiology",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "心臟科知識",
+    "slug": "medicine/cardiology"
+  }
+}

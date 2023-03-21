@@ -1,0 +1,9 @@
+{
+  "label": "醫學 Medicine",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "醫學知識筆記彙整",
+    "slug": "medicine"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "label": "Capture",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "擷取（Capture）類型的工具，定位是協助我擷取各種不同管道的資訊，並且將其吸收成為自己的東西。常見的資訊來源包含一般網站、社群網站、訂閱的電子報等等。這個類別的工具通常都有一些特別的優點令我能夠更有效率地收集，或是更快速地吸收重點。",
-    "slug": "toolbox/capture"
-  }
-}

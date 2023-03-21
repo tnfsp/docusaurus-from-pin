@@ -1,149 +1,111 @@
 {
-  "/__docusaurus/debug-8b6": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/tags-966": {
+    "__comp": "3720c009",
     "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
-    }
-  },
-  "/__docusaurus/debug/config-6d3": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
-    }
-  },
-  "/__docusaurus/debug/content-71f": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
+      "plugin": "9ce1fe1e"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "tags": "55960ee5"
   },
-  "/__docusaurus/debug/globalData-ddb": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/tags/archive-207": {
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
-    }
-  },
-  "/__docusaurus/debug/metadata-d75": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
-    }
-  },
-  "/__docusaurus/debug/registry-603": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
-    }
-  },
-  "/__docusaurus/debug/routes-2a1": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugaf-9-4cd"
-    }
-  },
-  "/tags-7fc": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__context": {
-      "plugin": "plugin---tagsa-38-513"
+      "plugin": "9ce1fe1e"
     },
-    "tags": "tags---tags-559-690"
+    "tag": "56ad3c76"
   },
-  "/tags/archive-da3": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+  "/tags/capture-1e9": {
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---tagsa-38-513"
+      "plugin": "9ce1fe1e"
     },
-    "tag": "tag---tags-archive-56-a-1d0"
+    "tag": "d9853591"
   },
-  "/tags/capture-f9a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+  "/tags/distill-69a": {
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---tagsa-38-513"
+      "plugin": "9ce1fe1e"
     },
-    "tag": "tag---tags-captured-98-d7a"
+    "tag": "c6e7a68c"
   },
-  "/tags/distill-3b5": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+  "/tags/express-cdb": {
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---tagsa-38-513"
+      "plugin": "9ce1fe1e"
     },
-    "tag": "tag---tags-distillc-6-e-f11"
+    "tag": "f272ba43"
   },
-  "/tags/express-bf3": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+  "/tags/organize-569": {
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---tagsa-38-513"
+      "plugin": "9ce1fe1e"
     },
-    "tag": "tag---tags-expressf-27-39a"
+    "tag": "9a43053f"
   },
-  "/tags/organize-60e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+  "/-3aa": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---tagsa-38-513"
+      "plugin": "9ce1fe1e"
     },
-    "tag": "tag---tags-organize-9-a-4-0e7"
-  },
-  "/tags/prompts-e9c": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---tagsa-38-513"
-    },
-    "tag": "tag---tags-promptsc-89-558"
-  },
-  "/-56f": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---tagsa-38-513"
-    },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "935f2afb"
   },
   "/-58d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---3-d-8-5fb"
+    "__comp": "17896441",
+    "content": "3d8d21df"
+  },
+  "/ai-vocabulary-builder-3bc": {
+    "__comp": "17896441",
+    "content": "ca685f49"
   },
   "/changelog-ef8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---changelog-9-be-13d"
+    "__comp": "17896441",
+    "content": "9beb87c2"
   },
-  "/chatgpt/prompt/tutor-1e5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---chatgpt-prompt-tutor-1-c-6-b08"
+  "/devonthink-28a": {
+    "__comp": "17896441",
+    "content": "2c786f08"
   },
-  "/chatgpt/prompt/tutor-b98": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---chat-gpt-prompts-i-what-5-ca-717"
+  "/devonthink-c49": {
+    "__comp": "17896441",
+    "content": "9c7c11e3"
   },
-  "/devonthink-471": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---devonthink-341-2c6"
+  "/docusaurus-934": {
+    "__comp": "17896441",
+    "content": "4ddf9080"
   },
-  "/docusaurus-8ca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurusc-4-b-1af"
+  "/heptabase-1a2": {
+    "__comp": "17896441",
+    "content": "795d7519"
   },
-  "/heptabase-965": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---heptabase-371-848"
+  "/life-cc2": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "413ce00b"
   },
-  "/logseq-4eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---logseq-559-1ac"
+  "/logseq-d59": {
+    "__comp": "17896441",
+    "content": "62ea9fa6"
   },
-  "/toolbox-b71": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---toolbox-0-e-1-ec4"
+  "/logseq-d58": {
+    "__comp": "17896441",
+    "content": "7d76c885"
   },
-  "/toolbox/express-17b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---toolbox-expressa-67-cb7"
+  "/medicine-3af": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ffc53d2a"
   },
-  "/toolbox/featured-b97": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---toolbox-featuredb-1-b-86c"
+  "/medicine/cardiology-da3": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f52b3ae3"
   },
-  "/unused-tools-a0d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---unused-toolsb-6-c-f5d"
+  "/medicine/intensive-care-90c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f041c3e7"
+  },
+  "/tool-52c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "82ce53ad"
+  },
+  "/toolbox/featured-ce6": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "16402a71"
   }
 }

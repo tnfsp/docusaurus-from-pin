@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Pin 起來的收集箱",
-  "tagline": "工具、服務、網站、書籍、電影",
-  "favicon": "img/favicon.ico",
-  "url": "https://library.pinchlime.com",
+  "title": "春熊の心臟醫學",
+  "tagline": "心臟外科醫師的挑戰與修練",
+  "favicon": "img/favicon.icostatic/img/favicon1.png",
+  "url": "https://wilsonchao.com",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
@@ -25,13 +25,13 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/pjwu/Documents/GitHub/Library/sidebars.js",
-          "editUrl": "https://github.com/wupingju/library/edit/master/",
+          "sidebarPath": "/workspaces/docusaurus-from-pin/sidebars.js",
+          "editUrl": "https://github.com/tnfsp/docusaurus-from-pin/edit/master/",
           "showLastUpdateTime": true
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/pjwu/Documents/GitHub/Library/src/css/custom.css"
+          "customCss": "/workspaces/docusaurus-from-pin/src/css/custom.css"
         }
       }
     ]
@@ -40,31 +40,26 @@ export default {
     "metadata": [
       {
         "name": "keywords",
-        "content": "生產力工具、效率工具、AI 工具"
+        "content": "醫院生活、冒險故事、讓你變得更好的東東"
       }
     ],
     "image": "https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/og-02-1200-630_1hIeSM.png",
     "navbar": {
-      "title": "Pin 起來的收集箱",
+      "title": "春熊の心臟醫學",
       "logo": {
-        "alt": "Pin 起來的收集箱",
+        "alt": "春熊の心臟醫學",
         "src": "https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-logo-02-no-sub-96x96_Bgz9Ey.webp"
       },
       "items": [
         {
-          "to": "/toolbox",
+          "to": "/life",
           "position": "left",
-          "label": "工具箱"
+          "label": "日常 Life"
         },
         {
-          "to": "/unused-tools",
+          "to": "/medicine",
           "position": "left",
-          "label": "不再使用的工具"
-        },
-        {
-          "href": "https://pinchlime.com",
-          "label": "Pin 起來主網站",
-          "position": "right"
+          "label": "醫學 Medicine"
         }
       ],
       "hideOnScroll": false
@@ -86,21 +81,12 @@ export default {
           "items": [
             {
               "label": "Twitter",
-              "href": "https://twitter.com/wupingju"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Pin 起來",
-              "href": "https://pinchlime.com"
+              "href": "https://twitter.hsiang0401"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022-2023 Pin 起來"
+      "copyright": "Copyright © 2023 春熊の心臟醫學"
     },
     "prism": {
       "theme": {

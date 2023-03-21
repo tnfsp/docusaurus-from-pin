@@ -1,0 +1,9 @@
+{
+  "label": "日常 Life ",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "日常生活的各種想法",
+    "slug": "life"
+  }
+}

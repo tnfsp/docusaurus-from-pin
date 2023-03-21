@@ -3,12 +3,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 module.exports = {
 
-  title: 'Pin 起來的收集箱',
-  tagline: '工具、服務、網站、書籍、電影',
-  favicon: 'img/favicon.ico',
+  title: '春熊の心臟醫學',
+  tagline: '心臟外科醫師的挑戰與修練',
+  favicon: 'img/favicon.icostatic/img/favicon1.png',
 
   // Set the production url of your site here
-  url: 'https://library.pinchlime.com',
+  url: 'https://wilsonchao.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -35,7 +35,7 @@ module.exports = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/wupingju/library/edit/master/',
+            'https://github.com/tnfsp/docusaurus-from-pin/edit/master/',
           showLastUpdateTime: true,
         },
         blog: false,
@@ -47,29 +47,24 @@ module.exports = {
   ],
 
   themeConfig: {
-    metadata: [{name: 'keywords', content: '生產力工具、效率工具、AI 工具'}],
+    metadata: [{name: 'keywords', content: '醫院生活、冒險故事、讓你變得更好的東東'}],
     image: 'https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/og-02-1200-630_1hIeSM.png',
     navbar: {
-      title: 'Pin 起來的收集箱',
+      title: '春熊の心臟醫學',
       logo: {
-        alt: 'Pin 起來的收集箱',
+        alt: '春熊の心臟醫學',
         src: 'https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/pinchlime-logo-02-no-sub-96x96_Bgz9Ey.webp',
       },
       items: [
         {
-          to: '/toolbox',
+          to: '/life',
           position: 'left',
-          label: '工具箱',
+          label: '日常 Life',
         },
         {
-          to: '/unused-tools',
+          to: '/medicine',
           position: 'left',
-          label: '不再使用的工具',
-        },
-        {
-          href: 'https://pinchlime.com',
-          label: 'Pin 起來主網站',
-          position: 'right',
+          label: '醫學 Medicine',
         },
       ],
     },
@@ -90,21 +85,12 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/wupingju',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Pin 起來',
-              href: 'https://pinchlime.com',
+              href: 'https://twitter.hsiang0401',
             },
           ],
         },
       ],
-      copyright: `Copyright © 2022-${new Date().getFullYear()} Pin 起來`,
+      copyright: `Copyright © ${new Date().getFullYear()} 春熊の心臟醫學`,
     },
     prism: {
       theme: lightCodeTheme,
