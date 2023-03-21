@@ -1,13 +1,10 @@
 ---
 title: Changelog
 last_update: 
-    date: 2023-02-11
-    author: P.J. Wu 吳秉儒
+    date: 2023-03-21
+    author: Y.H. Chao 趙玴祥
 sidebar_position: 99
 slug: /changelog
 ---
 
-
-- 2023-02-12 ：update [Heptabase](/heptabase)
-- 2023-02-11 ：建立 [Heptabase](/heptabase)、[Logseq](/logseq)、[DEVONthink](/devonthink) 、[Docusaurus](/docusaurus)等頁面
-- 2023-02-10 ：建立這個網站
+- 2023-03-21 ：建立這個網站
