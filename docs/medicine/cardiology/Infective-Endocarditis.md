@@ -4,7 +4,7 @@ last_update:
     date: 2023-03-21
     author: Y.H. Chao 趙玴祥
 description: 心內膜炎 Infective Endocarditis
-slug: /medicine/A
+slug: /medicine/IE
 tags:
     - Medicine
     - Infective Endocarditis
