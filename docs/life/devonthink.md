@@ -18,7 +18,7 @@ tags:
 | Platform | macOS , iOS |
 | Pricing | Standard: USD $99 |
 | | Pro: USD $199 |
-| Description | 第二大腦的儲存空間，儲存我所有想保留的、之後想再度利用的資訊 |
+| Description | 測試測試 |
 
 
 ### 簡介
