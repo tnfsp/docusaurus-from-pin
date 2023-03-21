@@ -8,6 +8,5 @@ slug: /medicine/AR
 tags:
     - Medicine
     - Heart Failure
-position: 9
 ---
 (網站建置中)
