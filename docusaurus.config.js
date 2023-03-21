@@ -5,7 +5,7 @@ module.exports = {
 
   title: '春熊の心臟醫學',
   tagline: '心臟外科醫師的挑戰與修練',
-  favicon: 'img/favicon.icostatic/img/favicon1.png',
+  favicon: 'img/favicon1.png',
 
   // Set the production url of your site here
   url: 'https://wilsonchao.com',
@@ -48,7 +48,7 @@ module.exports = {
 
   themeConfig: {
     metadata: [{name: 'keywords', content: '心臟外科、重症醫學、心臟超音波'}],
-    image: 'https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/og-02-1200-630_1hIeSM.png',
+    image: 'img/favicon1.png',
     navbar: {
       title: '春熊の心臟醫學',
       logo: {

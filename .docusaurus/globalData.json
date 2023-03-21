@@ -26,8 +26,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "medicine/cardiology/test2",
+              "path": "/devonthink",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tool/test1",
+              "path": "/devonthink",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "life",
               "path": "/life",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine",
+              "path": "/medicine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology",
+              "path": "/medicine/cardiology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tool",
+              "path": "/tool",
               "sidebar": "tutorialSidebar"
             }
           ],

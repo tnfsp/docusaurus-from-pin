@@ -6,7 +6,7 @@
 export default {
   "title": "春熊の心臟醫學",
   "tagline": "心臟外科醫師的挑戰與修練",
-  "favicon": "img/favicon.icostatic/img/favicon1.png",
+  "favicon": "img/favicon1.png",
   "url": "https://wilsonchao.com",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
@@ -40,10 +40,10 @@ export default {
     "metadata": [
       {
         "name": "keywords",
-        "content": "醫院生活、冒險故事、讓你變得更好的東東"
+        "content": "心臟外科、重症醫學、心臟超音波"
       }
     ],
-    "image": "https://pinchlime-screenshots.s3.ap-northeast-1.amazonaws.com/og-02-1200-630_1hIeSM.png",
+    "image": "img/favicon1.png",
     "navbar": {
       "title": "春熊の心臟醫學",
       "logo": {

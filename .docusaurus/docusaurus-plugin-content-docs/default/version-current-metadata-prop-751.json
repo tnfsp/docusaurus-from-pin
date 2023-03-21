@@ -31,6 +31,45 @@
         "href": "/life"
       },
       {
+        "type": "category",
+        "label": "醫學 Medicine",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "心臟科 Cardiology",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "DEVONthink",
+                "href": "/devonthink",
+                "docId": "medicine/cardiology/test2"
+              }
+            ],
+            "href": "/medicine/cardiology"
+          }
+        ],
+        "href": "/medicine"
+      },
+      {
+        "type": "category",
+        "label": "小工具 tool ",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "DEVONthink",
+            "href": "/devonthink",
+            "docId": "tool/test1"
+          }
+        ],
+        "href": "/tool"
+      },
+      {
         "type": "link",
         "label": "Changelog",
         "href": "/changelog",
@@ -53,6 +92,18 @@
     },
     "life/devonthink": {
       "id": "life/devonthink",
+      "title": "DEVONthink",
+      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/test2": {
+      "id": "medicine/cardiology/test2",
+      "title": "DEVONthink",
+      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+      "sidebar": "tutorialSidebar"
+    },
+    "tool/test1": {
+      "id": "tool/test1",
       "title": "DEVONthink",
       "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
       "sidebar": "tutorialSidebar"

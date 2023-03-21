@@ -24,7 +24,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '736'),
+    component: ComponentCreator('/', '5a8'),
     routes: [
       {
         path: '/',
@@ -45,8 +45,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/devonthink',
+        component: ComponentCreator('/devonthink', '5bd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/devonthink',
+        component: ComponentCreator('/devonthink', '0de'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/life',
         component: ComponentCreator('/life', 'cc2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/medicine',
+        component: ComponentCreator('/medicine', '3af'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/medicine/cardiology',
+        component: ComponentCreator('/medicine/cardiology', 'da3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/tool',
+        component: ComponentCreator('/tool', '52c'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
