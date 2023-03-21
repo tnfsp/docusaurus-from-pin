@@ -48,6 +48,7 @@ module.exports = {
 
   themeConfig: {
     algolia: {
+      contextualSearch: true
       // The application ID provided by Algolia
       appId: 'N8VTM1LPAT',
 
@@ -56,8 +57,6 @@ module.exports = {
 
       indexName: 'wilsonchao.com',
 
-      // Optional: see doc section below
-      contextualSearch: true,
 
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
       externalUrlRegex: 'external\\.com|domain\\.com',
