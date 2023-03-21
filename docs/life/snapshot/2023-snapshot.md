@@ -8,7 +8,7 @@ slug: 2023-snapshot
 tags:
     - snapshot
 ---
-     Be a good surgeon, be a good man  # 2023-03-22  
+> Be a good surgeon, be a good man  # 2023-03-22  
 
 
     
