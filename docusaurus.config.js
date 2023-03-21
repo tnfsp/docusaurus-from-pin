@@ -119,20 +119,19 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Changelog',
-              to: '/changelog',
-            },
-          ],
-        },
-        {
           title: 'Contact',
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.hsiang0401',
+              href: 'https://twitter.com/hsiang0401',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/momobear_doctor/',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://facebook.com/momobeardoctor',
             },
           ],
         },
