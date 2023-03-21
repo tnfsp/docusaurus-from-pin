@@ -9,3 +9,22 @@ tags:
     - drug
 ---
 (內容建置中)
+## Inotropes / Vasopressor  
+### Norepinephrine  
+### Epinephrine  
+### Dopamine  
+### Dobutamine  
+### Primacor  
+
+## Analgestics
+### Fentanyl  
+
+## Sedation  
+### Midazolam  
+### Propofol
+### Ketamine 
+### Dexmedetomidine (precedex)  
+
+## Muscle relaxant
+### Cisatracurium  
+### Rocuronium  
