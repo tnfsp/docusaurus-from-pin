@@ -12,12 +12,61 @@
     },
     "tags": "55960ee5"
   },
+  "/tags/aortic-dissection-4f1": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "0ad208b1"
+  },
+  "/tags/aortic-regurgitation-01e": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "b78a411c"
+  },
+  "/tags/aortic-stenosis-9a7": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "00867392"
+  },
   "/tags/archive-207": {
     "__comp": "df203c0f",
     "__context": {
       "plugin": "9ce1fe1e"
     },
     "tag": "56ad3c76"
+  },
+  "/tags/atrial-fibrillation-87c": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "98e41310"
+  },
+  "/tags/basics-44a": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "969a5649"
+  },
+  "/tags/books-bbf": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "1f35e730"
+  },
+  "/tags/cad-cb8": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "dde8f6ea"
   },
   "/tags/capture-1e9": {
     "__comp": "df203c0f",
@@ -26,6 +75,97 @@
     },
     "tag": "d9853591"
   },
+  "/tags/cardiac-echo-e1d": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "3ad57b05"
+  },
+  "/tags/drug-a70": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "7c3a83f0"
+  },
+  "/tags/heart-failure-e03": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "4790039e"
+  },
+  "/tags/icu-dc3": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "02a9daf7"
+  },
+  "/tags/infective-endocarditis-45d": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "8e989cc9"
+  },
+  "/tags/inotropes-b43": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "88d8c388"
+  },
+  "/tags/links-a1e": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "f472468a"
+  },
+  "/tags/medicine-fb0": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "7281c560"
+  },
+  "/tags/mitral-regurgitation-8b5": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "56f322f1"
+  },
+  "/tags/mitral-stenosis-22b": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "9cdf7f9e"
+  },
+  "/tags/movies-25c": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "9969f3b1"
+  },
+  "/tags/nutrition-6ac": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "0b847715"
+  },
+  "/tags/operation-82f": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "095b4368"
+  },
   "/tags/organize-569": {
     "__comp": "df203c0f",
     "__context": {
@@ -33,7 +173,49 @@
     },
     "tag": "9a43053f"
   },
-  "/-207": {
+  "/tags/port-a-dff": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "dc8ed07f"
+  },
+  "/tags/questions-717": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "c7851cfe"
+  },
+  "/tags/quotes-c74": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "1c7fa25e"
+  },
+  "/tags/snapshot-d07": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "493481bc"
+  },
+  "/tags/vasopressors-7f4": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "61592dc7"
+  },
+  "/tags/vsr-68a": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "9ce1fe1e"
+    },
+    "tag": "ab608838"
+  },
+  "/-11b": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "9ce1fe1e"
@@ -44,40 +226,140 @@
     "__comp": "17896441",
     "content": "3d8d21df"
   },
+  "/Blog-4aa": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "04db93d3"
+  },
+  "/books-41b": {
+    "__comp": "17896441",
+    "content": "32044dd3"
+  },
   "/changelog-ef8": {
     "__comp": "17896441",
     "content": "9beb87c2"
+  },
+  "/Collection-e91": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "71080498"
   },
   "/comments-575": {
     "__comp": "17896441",
     "content": "645d743a"
   },
-  "/devonthink-28a": {
+  "/devonthink-ca7": {
     "__comp": "17896441",
-    "content": "2c786f08"
-  },
-  "/devonthink-5bd": {
-    "__comp": "17896441",
-    "content": "629f8971"
-  },
-  "/devonthink-0de": {
-    "__comp": "17896441",
-    "content": "cfd1bd43"
+    "content": "d41392d3"
   },
   "/life-cc2": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "413ce00b"
   },
+  "/life/snapshot/2023-snapshot-a17": {
+    "__comp": "17896441",
+    "content": "a2258fc5"
+  },
   "/medicine-3af": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "ffc53d2a"
+  },
+  "/medicine/A-a7e": {
+    "__comp": "17896441",
+    "content": "35cf130b"
+  },
+  "/medicine/AD-d48": {
+    "__comp": "17896441",
+    "content": "e2a88172"
+  },
+  "/medicine/AR-56f": {
+    "__comp": "17896441",
+    "content": "9a0d8d41"
+  },
+  "/medicine/AR-2d0": {
+    "__comp": "17896441",
+    "content": "ef29aa3f"
+  },
+  "/medicine/AR-51d": {
+    "__comp": "17896441",
+    "content": "e51d1103"
+  },
+  "/medicine/AS-f3b": {
+    "__comp": "17896441",
+    "content": "cb0ad033"
+  },
+  "/medicine/CAD-cc4": {
+    "__comp": "17896441",
+    "content": "e5a26d2d"
   },
   "/medicine/cardiology-da3": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "f52b3ae3"
   },
+  "/medicine/echocardiogram/basics-ecd": {
+    "__comp": "17896441",
+    "content": "f23d0cdd"
+  },
+  "/medicine/inotropes-2a7": {
+    "__comp": "17896441",
+    "content": "98c85e35"
+  },
+  "/medicine/intensive-care-90c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f041c3e7"
+  },
+  "/medicine/MR-bf1": {
+    "__comp": "17896441",
+    "content": "86c40db8"
+  },
+  "/medicine/MS-40a": {
+    "__comp": "17896441",
+    "content": "73272f39"
+  },
+  "/medicine/nutrition-c37": {
+    "__comp": "17896441",
+    "content": "086e4634"
+  },
+  "/medicine/operation-6db": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9a3da699"
+  },
+  "/medicine/operation/operation/port-A-cf3": {
+    "__comp": "17896441",
+    "content": "d2151471"
+  },
+  "/medicine/VSR-aa2": {
+    "__comp": "17896441",
+    "content": "ff21dc7c"
+  },
+  "/movies-c96": {
+    "__comp": "17896441",
+    "content": "a8503579"
+  },
+  "/questions-f28": {
+    "__comp": "17896441",
+    "content": "b49c027c"
+  },
+  "/quotes-b93": {
+    "__comp": "17896441",
+    "content": "8320da37"
+  },
+  "/Snapshot-3b0": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "dd2051af"
+  },
   "/tool-52c": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "82ce53ad"
+  },
+  "/tool/tool/common-drug-f81": {
+    "__comp": "17896441",
+    "content": "583c4775"
+  },
+  "/tool/tool/common-links-c22": {
+    "__comp": "17896441",
+    "content": "7a5537e2"
+  },
+  "/toolbox/featured-ce6": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "16402a71"
   }
 }

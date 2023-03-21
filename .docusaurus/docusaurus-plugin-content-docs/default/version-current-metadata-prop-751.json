@@ -22,10 +22,67 @@
         "collapsed": true,
         "items": [
           {
-            "type": "link",
-            "label": "DEVONthink",
-            "href": "/devonthink",
-            "docId": "life/devonthink"
+            "type": "category",
+            "label": "文章 Blog ",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "DEVONthink",
+                "href": "/devonthink",
+                "docId": "life/blog/devonthink"
+              }
+            ],
+            "href": "/Blog"
+          },
+          {
+            "type": "category",
+            "label": "短想法 Snapshot ",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "2023 年短想法",
+                "href": "/life/snapshot/2023-snapshot",
+                "docId": "life/snapshot/snapshot"
+              }
+            ],
+            "href": "/Snapshot"
+          },
+          {
+            "type": "category",
+            "label": "收集 Collection ",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "書籍蒐集",
+                "href": "/books",
+                "docId": "life/collection/books"
+              },
+              {
+                "type": "link",
+                "label": "電影蒐集",
+                "href": "/movies",
+                "docId": "life/collection/movies"
+              },
+              {
+                "type": "link",
+                "label": "有趣的問題蒐集",
+                "href": "/questions",
+                "docId": "life/collection/questions"
+              },
+              {
+                "type": "link",
+                "label": "發人深省的話",
+                "href": "/quotes",
+                "docId": "life/collection/quotes"
+              }
+            ],
+            "href": "/Collection"
           }
         ],
         "href": "/life"
@@ -44,12 +101,117 @@
             "items": [
               {
                 "type": "link",
-                "label": "DEVONthink",
-                "href": "/devonthink",
-                "docId": "medicine/cardiology/test2"
+                "label": "主動脈瓣剝離 Aortic Dissections",
+                "href": "/medicine/AD",
+                "docId": "medicine/cardiology/Aortic-Dissections"
+              },
+              {
+                "type": "link",
+                "label": "心臟衰竭 Advanced Heart Failure",
+                "href": "/medicine/AR",
+                "docId": "medicine/cardiology/Aortic-Regurgitation copy"
+              },
+              {
+                "type": "link",
+                "label": "主動脈瓣逆流 Aortic regurgitation",
+                "href": "/medicine/AR",
+                "docId": "medicine/cardiology/Aortic-Regurgitation"
+              },
+              {
+                "type": "link",
+                "label": "主動脈瓣狹窄 Aortic stenosis",
+                "href": "/medicine/AS",
+                "docId": "medicine/cardiology/Aortic-Stenosis."
+              },
+              {
+                "type": "link",
+                "label": "心房顫動 Atrial Fibrillation",
+                "href": "/medicine/AR",
+                "docId": "medicine/cardiology/Atrial Fibrillation"
+              },
+              {
+                "type": "link",
+                "label": "冠狀動脈疾病 CAD",
+                "href": "/medicine/CAD",
+                "docId": "medicine/cardiology/CAD"
+              },
+              {
+                "type": "link",
+                "label": "心內膜炎 Infective Endocarditis",
+                "href": "/medicine/A",
+                "docId": "medicine/cardiology/Infective-Endocarditis"
+              },
+              {
+                "type": "link",
+                "label": "二尖瓣逆流 Mitral regurgitation",
+                "href": "/medicine/MR",
+                "docId": "medicine/cardiology/Mitral-Regurgitation"
+              },
+              {
+                "type": "link",
+                "label": "二尖瓣狹窄 Mitral stenosis",
+                "href": "/medicine/MS",
+                "docId": "medicine/cardiology/Mitral-Stenosis"
+              },
+              {
+                "type": "link",
+                "label": "心室中膈破裂 Ventricular Septal Rupture",
+                "href": "/medicine/VSR",
+                "docId": "medicine/cardiology/Ventricular-Septal-Rupture"
               }
             ],
             "href": "/medicine/cardiology"
+          },
+          {
+            "type": "category",
+            "label": "心臟超音波 Echocardiogram",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "心臟超音波基礎 Cardiac echo basics",
+                "href": "/medicine/echocardiogram/basics",
+                "docId": "medicine/echocardiogram/Cardiac-echo-basic"
+              }
+            ],
+            "href": "/toolbox/featured"
+          },
+          {
+            "type": "category",
+            "label": "手術 Operation",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "外科醫師新手村 (PORA-A Setup)",
+                "href": "/medicine/operation/operation/port-A",
+                "docId": "medicine/operation/port-a"
+              }
+            ],
+            "href": "/medicine/operation"
+          },
+          {
+            "type": "category",
+            "label": "重症醫學 Intensive care",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "加護病房的救命藥-升壓劑與強心針(inotropes/vasopressors)",
+                "href": "/medicine/inotropes",
+                "docId": "medicine/intensive-care/inotropes"
+              },
+              {
+                "type": "link",
+                "label": "加護病房的營養與健康 Nutrition",
+                "href": "/medicine/nutrition",
+                "docId": "medicine/intensive-care/nutrition"
+              }
+            ],
+            "href": "/medicine/intensive-care"
           }
         ],
         "href": "/medicine"
@@ -62,9 +224,15 @@
         "items": [
           {
             "type": "link",
-            "label": "DEVONthink",
-            "href": "/devonthink",
-            "docId": "tool/test1"
+            "label": "常用藥物 Common drugs",
+            "href": "/tool/tool/common-drug",
+            "docId": "tool/common-drugs"
+          },
+          {
+            "type": "link",
+            "label": "常用連結 Common links",
+            "href": "/tool/tool/common-links",
+            "docId": "tool/common-links"
           }
         ],
         "href": "/tool"
@@ -102,22 +270,136 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "life/devonthink": {
-      "id": "life/devonthink",
+    "life/blog/devonthink": {
+      "id": "life/blog/devonthink",
       "title": "DEVONthink",
       "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
       "sidebar": "tutorialSidebar"
     },
-    "medicine/cardiology/test2": {
-      "id": "medicine/cardiology/test2",
-      "title": "DEVONthink",
-      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+    "life/collection/books": {
+      "id": "life/collection/books",
+      "title": "書籍蒐集",
+      "description": "書籍蒐集",
       "sidebar": "tutorialSidebar"
     },
-    "tool/test1": {
-      "id": "tool/test1",
-      "title": "DEVONthink",
-      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+    "life/collection/movies": {
+      "id": "life/collection/movies",
+      "title": "電影蒐集",
+      "description": "電影蒐集",
+      "sidebar": "tutorialSidebar"
+    },
+    "life/collection/questions": {
+      "id": "life/collection/questions",
+      "title": "有趣的問題蒐集",
+      "description": "有趣的問題蒐集",
+      "sidebar": "tutorialSidebar"
+    },
+    "life/collection/quotes": {
+      "id": "life/collection/quotes",
+      "title": "發人深省的話",
+      "description": "發人深省的話",
+      "sidebar": "tutorialSidebar"
+    },
+    "life/snapshot/snapshot": {
+      "id": "life/snapshot/snapshot",
+      "title": "2023 年短想法",
+      "description": "2023 年短想法",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Aortic-Dissections": {
+      "id": "medicine/cardiology/Aortic-Dissections",
+      "title": "主動脈瓣剝離 Aortic Dissections",
+      "description": "主動脈瓣剝離 Aortic Dissections",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Aortic-Regurgitation": {
+      "id": "medicine/cardiology/Aortic-Regurgitation",
+      "title": "主動脈瓣逆流 Aortic regurgitation",
+      "description": "主動脈瓣逆流 Aortic regurgitation",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Aortic-Regurgitation copy": {
+      "id": "medicine/cardiology/Aortic-Regurgitation copy",
+      "title": "心臟衰竭 Advanced Heart Failure",
+      "description": "心臟衰竭 Advanced Heart Failure",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Aortic-Stenosis.": {
+      "id": "medicine/cardiology/Aortic-Stenosis.",
+      "title": "主動脈瓣狹窄 Aortic stenosis",
+      "description": "主動脈瓣狹窄 Aortic stenosis",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Atrial Fibrillation": {
+      "id": "medicine/cardiology/Atrial Fibrillation",
+      "title": "心房顫動 Atrial Fibrillation",
+      "description": "心房顫動 Atrial Fibrillation",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/CAD": {
+      "id": "medicine/cardiology/CAD",
+      "title": "冠狀動脈疾病 CAD",
+      "description": "冠狀動脈疾病 CAD",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Infective-Endocarditis": {
+      "id": "medicine/cardiology/Infective-Endocarditis",
+      "title": "心內膜炎 Infective Endocarditis",
+      "description": "心內膜炎 Infective Endocarditis",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Mitral-Regurgitation": {
+      "id": "medicine/cardiology/Mitral-Regurgitation",
+      "title": "二尖瓣逆流 Mitral regurgitation",
+      "description": "主動脈瓣逆流 Mitral regurgitation",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Mitral-Stenosis": {
+      "id": "medicine/cardiology/Mitral-Stenosis",
+      "title": "二尖瓣狹窄 Mitral stenosis",
+      "description": "二尖瓣狹窄 Mitral stenosis",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Ventricular-Septal-Rupture": {
+      "id": "medicine/cardiology/Ventricular-Septal-Rupture",
+      "title": "心室中膈破裂 Ventricular Septal Rupture",
+      "description": "心室中膈破裂 Ventricular Septal Rupture",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/echocardiogram/Cardiac-echo-basic": {
+      "id": "medicine/echocardiogram/Cardiac-echo-basic",
+      "title": "心臟超音波基礎 Cardiac echo basics",
+      "description": "心臟超音波基礎 Cardiac echo basics",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/intensive-care/inotropes": {
+      "id": "medicine/intensive-care/inotropes",
+      "title": "加護病房的救命藥-升壓劑與強心針(inotropes/vasopressors)",
+      "description": "加護病房的救命藥-升壓劑與強心針(inotropes/vasopressors)",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/intensive-care/nutrition": {
+      "id": "medicine/intensive-care/nutrition",
+      "title": "加護病房的營養與健康 Nutrition",
+      "description": "加護病房的營養與健康",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/operation/port-a": {
+      "id": "medicine/operation/port-a",
+      "title": "外科醫師新手村 (PORA-A Setup)",
+      "description": "外科醫師新手村 (PORA-A Setup)",
+      "sidebar": "tutorialSidebar"
+    },
+    "tool/common-drugs": {
+      "id": "tool/common-drugs",
+      "title": "常用藥物 Common drugs",
+      "description": "常用的藥物",
+      "sidebar": "tutorialSidebar"
+    },
+    "tool/common-links": {
+      "id": "tool/common-links",
+      "title": "常用連結 Common links",
+      "description": "常用的連結",
       "sidebar": "tutorialSidebar"
     }
   }

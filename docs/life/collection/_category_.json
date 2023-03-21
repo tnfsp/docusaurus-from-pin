@@ -1,0 +1,9 @@
+{
+  "label": "收集 Collection ",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "收集一些有的沒的",
+    "slug": "Collection"
+  }
+}

@@ -26,23 +26,133 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "life/devonthink",
+              "id": "life/blog/devonthink",
               "path": "/devonthink",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "medicine/cardiology/test2",
-              "path": "/devonthink",
+              "id": "life/collection/books",
+              "path": "/books",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tool/test1",
-              "path": "/devonthink",
+              "id": "life/collection/movies",
+              "path": "/movies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/collection/questions",
+              "path": "/questions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/collection/quotes",
+              "path": "/quotes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/snapshot/snapshot",
+              "path": "/life/snapshot/2023-snapshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Aortic-Dissections",
+              "path": "/medicine/AD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Aortic-Regurgitation",
+              "path": "/medicine/AR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Aortic-Regurgitation copy",
+              "path": "/medicine/AR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Aortic-Stenosis.",
+              "path": "/medicine/AS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Atrial Fibrillation",
+              "path": "/medicine/AR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/CAD",
+              "path": "/medicine/CAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Infective-Endocarditis",
+              "path": "/medicine/A",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Mitral-Regurgitation",
+              "path": "/medicine/MR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Mitral-Stenosis",
+              "path": "/medicine/MS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Ventricular-Septal-Rupture",
+              "path": "/medicine/VSR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/echocardiogram/Cardiac-echo-basic",
+              "path": "/medicine/echocardiogram/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/intensive-care/inotropes",
+              "path": "/medicine/inotropes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/intensive-care/nutrition",
+              "path": "/medicine/nutrition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/operation/port-a",
+              "path": "/medicine/operation/operation/port-A",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tool/common-drugs",
+              "path": "/tool/tool/common-drug",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tool/common-links",
+              "path": "/tool/tool/common-links",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "life",
               "path": "/life",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Blog",
+              "path": "/Blog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Snapshot",
+              "path": "/Snapshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Collection",
+              "path": "/Collection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +163,21 @@
             {
               "id": "medicine/cardiology",
               "path": "/medicine/cardiology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toolbox/featured",
+              "path": "/toolbox/featured",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/operation",
+              "path": "/medicine/operation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/intensive-care",
+              "path": "/medicine/intensive-care",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -7,9 +7,9 @@ function Remark42() {
       <script>
         {`
           var remark_config = {
-            host: 'wilsonchao.com', // 將其替換為您的域名
+            host: 'http://localhost:8080', // 將其替換為您的域名
             site_id: 'wilsonchao-com', // 選擇一個唯一的 site_id，用於區分不同的站點
-            url: 'wilsonchao.com' + window.location.pathname, // 確保每個頁面都有唯一的 URL
+            url: 'http://localhost:8080' + window.location.pathname, // 確保每個頁面都有唯一的 URL
             components: ['embed'], // 啟用評論組件
           };
           (function (c) {
