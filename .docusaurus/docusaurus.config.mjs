@@ -19,6 +19,19 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        "redirects": [
+          {
+            "to": "/comments",
+            "from": "/api/v1/comments"
+          }
+        ]
+      }
+    ]
+  ],
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -38,10 +51,10 @@ export default {
   ],
   "themeConfig": {
     "algolia": {
+      "contextualSearch": true,
       "appId": "N8VTM1LPAT",
       "apiKey": "19da408b84e8b9e95c4dc2cebd0892dc",
       "indexName": "wilsonchao.com",
-      "contextualSearch": true,
       "externalUrlRegex": "external\\.com|domain\\.com",
       "replaceSearchResultPathname": {
         "from": "/docs/",
@@ -328,7 +341,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

@@ -74,6 +74,12 @@
         "label": "Changelog",
         "href": "/changelog",
         "docId": "changelog"
+      },
+      {
+        "type": "link",
+        "label": "comments",
+        "href": "/comments",
+        "docId": "comments"
       }
     ]
   },
@@ -87,7 +93,13 @@
     "changelog": {
       "id": "changelog",
       "title": "Changelog",
-      "description": "- 2023-02-12 ：update Heptabase",
+      "description": "- 2023-03-21 ：建立這個網站",
+      "sidebar": "tutorialSidebar"
+    },
+    "comments": {
+      "id": "comments",
+      "title": "comments",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "life/devonthink": {

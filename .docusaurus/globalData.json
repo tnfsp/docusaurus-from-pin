@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "comments",
+              "path": "/comments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "life/devonthink",
               "path": "/devonthink",
               "sidebar": "tutorialSidebar"

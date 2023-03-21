@@ -29,7 +29,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '5a8'),
+    component: ComponentCreator('/', '207'),
     routes: [
       {
         path: '/',
@@ -40,6 +40,12 @@ export default [
       {
         path: '/changelog',
         component: ComponentCreator('/changelog', 'ef8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/comments',
+        component: ComponentCreator('/comments', '575'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -24,6 +24,20 @@ module.exports = {
     locales: ['zh-TW'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/comments', // 您希望將評論顯示在哪個路徑下
+            from: '/api/v1/comments',
+          },
+        ],
+      },
+    ],
+  ],
+  
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -48,7 +62,7 @@ module.exports = {
 
   themeConfig: {
     algolia: {
-      contextualSearch: true
+      contextualSearch: true,
       // The application ID provided by Algolia
       appId: 'N8VTM1LPAT',
 

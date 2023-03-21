@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  remark:
+    image: umputun/remark42:latest
+    container_name: "remark42"
+    environment:
+      - REMARK_URL=https://wilsonchao.com
+      - SECRET=some-secret-key
+      - STORE_BOLT_PATH=/srv/var/remark.db
+      - BACKUP_PATH=/srv/var/backup
+      - AUTH_ANON=true
+      - AUTH_GOOGLE_CID=922388824820-75hraqj2tdtgkhn8qufb321h6f6pakpg.apps.googleusercontent.com
+      - AUTH_GOOGLE_CSEC=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
+      - AUTH_GITHUB_CID=5581adb2987d7261cb52
+      - AUTH_GITHUB_CSEC=ed31ea557658736e9fa3ba9f0db8d1c7af423565
+    volumes:
+      - ./data:/srv/var
+    restart: always
