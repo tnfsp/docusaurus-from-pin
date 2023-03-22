@@ -19,19 +19,6 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
-  "plugins": [
-    [
-      "@docusaurus/plugin-client-redirects",
-      {
-        "redirects": [
-          {
-            "to": "/comments",
-            "from": "/api/v1/comments"
-          }
-        ]
-      }
-    ]
-  ],
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -349,6 +336,7 @@ export default {
     "static"
   ],
   "customFields": {},
+  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
