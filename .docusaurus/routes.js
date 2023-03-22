@@ -28,11 +28,6 @@ export default [
     exact: true
   },
   {
-    path: '/tags/archive',
-    component: ComponentCreator('/tags/archive', '207'),
-    exact: true
-  },
-  {
     path: '/tags/atrial-fibrillation',
     component: ComponentCreator('/tags/atrial-fibrillation', '87c'),
     exact: true
@@ -50,11 +45,6 @@ export default [
   {
     path: '/tags/cad',
     component: ComponentCreator('/tags/cad', 'cb8'),
-    exact: true
-  },
-  {
-    path: '/tags/capture',
-    component: ComponentCreator('/tags/capture', '1e9'),
     exact: true
   },
   {
@@ -123,11 +113,6 @@ export default [
     exact: true
   },
   {
-    path: '/tags/organize',
-    component: ComponentCreator('/tags/organize', '569'),
-    exact: true
-  },
-  {
     path: '/tags/port-a',
     component: ComponentCreator('/tags/port-a', 'dff'),
     exact: true
@@ -148,6 +133,11 @@ export default [
     exact: true
   },
   {
+    path: '/tags/travel',
+    component: ComponentCreator('/tags/travel', '52a'),
+    exact: true
+  },
+  {
     path: '/tags/vasopressors',
     component: ComponentCreator('/tags/vasopressors', '7f4'),
     exact: true
@@ -158,8 +148,13 @@ export default [
     exact: true
   },
   {
+    path: '/tags/workflow',
+    component: ComponentCreator('/tags/workflow', 'cb2'),
+    exact: true
+  },
+  {
     path: '/',
-    component: ComponentCreator('/', '11b'),
+    component: ComponentCreator('/', 'e4a'),
     routes: [
       {
         path: '/',
@@ -176,6 +171,24 @@ export default [
       {
         path: '/books',
         component: ComponentCreator('/books', '41b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/books',
+        component: ComponentCreator('/books', 'e0c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/books',
+        component: ComponentCreator('/books', '38e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/books',
+        component: ComponentCreator('/books', 'b27'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -198,12 +211,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/devonthink',
-        component: ComponentCreator('/devonthink', 'ca7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/life',
         component: ComponentCreator('/life', 'cc2'),
         exact: true,
@@ -222,12 +229,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/medicine/A',
-        component: ComponentCreator('/medicine/A', 'a7e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/medicine/AD',
         component: ComponentCreator('/medicine/AD', 'd48'),
         exact: true,
@@ -235,13 +236,13 @@ export default [
       },
       {
         path: '/medicine/AR',
-        component: ComponentCreator('/medicine/AR', '56f'),
+        component: ComponentCreator('/medicine/AR', '2f0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/medicine/AR',
-        component: ComponentCreator('/medicine/AR', '2d0'),
+        component: ComponentCreator('/medicine/AR', '56f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -272,6 +273,12 @@ export default [
       {
         path: '/medicine/echocardiogram/basics',
         component: ComponentCreator('/medicine/echocardiogram/basics', 'ecd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/medicine/IE',
+        component: ComponentCreator('/medicine/IE', 'b68'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -368,6 +375,12 @@ export default [
       {
         path: '/toolbox/featured',
         component: ComponentCreator('/toolbox/featured', 'ce6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/workflow',
+        component: ComponentCreator('/workflow', '804'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

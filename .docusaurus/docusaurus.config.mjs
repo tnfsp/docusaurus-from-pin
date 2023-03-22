@@ -52,9 +52,9 @@ export default {
   "themeConfig": {
     "algolia": {
       "contextualSearch": true,
-      "appId": "N8VTM1LPAT",
-      "apiKey": "19da408b84e8b9e95c4dc2cebd0892dc",
-      "indexName": "wilsonchao.com",
+      "appId": "J2BVI05PDX",
+      "apiKey": "b666b8ea7267e3a15a0e978d105f4af3",
+      "indexName": "wilsonchao",
       "externalUrlRegex": "external\\.com|domain\\.com",
       "replaceSearchResultPathname": {
         "from": "/docs/",
@@ -78,14 +78,23 @@ export default {
       },
       "items": [
         {
-          "to": "/life",
+          "to": "/blog",
           "position": "left",
-          "label": "日常 Life"
+          "label": "文章 Blog"
         },
         {
-          "to": "/medicine",
+          "to": "/snapshot",
           "position": "left",
-          "label": "醫學 Medicine"
+          "label": "短想法 Snapshots"
+        },
+        {
+          "to": "/collection",
+          "position": "left",
+          "label": "蒐集 Collection"
+        },
+        {
+          "type": "search",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -94,20 +103,19 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Changelog",
-              "to": "/changelog"
-            }
-          ]
-        },
-        {
           "title": "Contact",
           "items": [
             {
               "label": "Twitter",
-              "href": "https://twitter.hsiang0401"
+              "href": "https://twitter.com/hsiang0401"
+            },
+            {
+              "label": "Instagram",
+              "href": "https://www.instagram.com/momobear_doctor/"
+            },
+            {
+              "label": "Facebook",
+              "href": "https://facebook.com/momobeardoctor"
             }
           ]
         }

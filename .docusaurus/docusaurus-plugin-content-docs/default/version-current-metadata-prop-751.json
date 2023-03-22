@@ -29,9 +29,9 @@
             "items": [
               {
                 "type": "link",
-                "label": "DEVONthink",
-                "href": "/devonthink",
-                "docId": "life/blog/devonthink"
+                "label": "我的知識管理工作流 2023年版本",
+                "href": "/workflow",
+                "docId": "life/blog/workflow"
               }
             ],
             "href": "/Blog"
@@ -65,6 +65,18 @@
               },
               {
                 "type": "link",
+                "label": "電腦重灌必備",
+                "href": "/books",
+                "docId": "life/collection/computer"
+              },
+              {
+                "type": "link",
+                "label": "家中必備",
+                "href": "/books",
+                "docId": "life/collection/home"
+              },
+              {
+                "type": "link",
                 "label": "電影蒐集",
                 "href": "/movies",
                 "docId": "life/collection/movies"
@@ -80,6 +92,12 @@
                 "label": "發人深省的話",
                 "href": "/quotes",
                 "docId": "life/collection/quotes"
+              },
+              {
+                "type": "link",
+                "label": "旅行必備",
+                "href": "/books",
+                "docId": "life/collection/travel"
               }
             ],
             "href": "/Collection"
@@ -101,15 +119,15 @@
             "items": [
               {
                 "type": "link",
-                "label": "主動脈瓣剝離 Aortic Dissections",
-                "href": "/medicine/AD",
-                "docId": "medicine/cardiology/Aortic-Dissections"
+                "label": "心臟衰竭 Advanced Heart Failure",
+                "href": "/medicine/AR",
+                "docId": "medicine/cardiology/Advanced-Heart-Failure"
               },
               {
                 "type": "link",
-                "label": "心臟衰竭 Advanced Heart Failure",
-                "href": "/medicine/AR",
-                "docId": "medicine/cardiology/Aortic-Regurgitation copy"
+                "label": "主動脈瓣剝離 Aortic Dissections",
+                "href": "/medicine/AD",
+                "docId": "medicine/cardiology/Aortic-Dissections"
               },
               {
                 "type": "link",
@@ -138,7 +156,7 @@
               {
                 "type": "link",
                 "label": "心內膜炎 Infective Endocarditis",
-                "href": "/medicine/A",
+                "href": "/medicine/IE",
                 "docId": "medicine/cardiology/Infective-Endocarditis"
               },
               {
@@ -185,7 +203,7 @@
             "items": [
               {
                 "type": "link",
-                "label": "外科醫師新手村 (PORA-A Setup)",
+                "label": "外科醫師新手村 (PORT-A Setup)",
                 "href": "/medicine/operation/operation/port-A",
                 "docId": "medicine/operation/port-a"
               }
@@ -270,16 +288,28 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "life/blog/devonthink": {
-      "id": "life/blog/devonthink",
-      "title": "DEVONthink",
-      "description": "DEVONthink 是一個蠻老牌的知識管理軟體，使用者可以在裡面儲存文件與資訊，管理檔案，撰寫筆記與文章，另外它也提供了蠻強的 AI 功能，適合有「大量收集與整理資訊」需求的人。",
+    "life/blog/workflow": {
+      "id": "life/blog/workflow",
+      "title": "我的知識管理工作流 2023年版本",
+      "description": "建置中",
       "sidebar": "tutorialSidebar"
     },
     "life/collection/books": {
       "id": "life/collection/books",
       "title": "書籍蒐集",
       "description": "書籍蒐集",
+      "sidebar": "tutorialSidebar"
+    },
+    "life/collection/computer": {
+      "id": "life/collection/computer",
+      "title": "電腦重灌必備",
+      "description": "有甚麼東西是一個電腦重灌必備呢？",
+      "sidebar": "tutorialSidebar"
+    },
+    "life/collection/home": {
+      "id": "life/collection/home",
+      "title": "家中必備",
+      "description": "有甚麼東西是一個家裡的必備呢？",
       "sidebar": "tutorialSidebar"
     },
     "life/collection/movies": {
@@ -300,10 +330,22 @@
       "description": "發人深省的話",
       "sidebar": "tutorialSidebar"
     },
+    "life/collection/travel": {
+      "id": "life/collection/travel",
+      "title": "旅行必備",
+      "description": "有甚麼東西是一個旅行的必備呢？",
+      "sidebar": "tutorialSidebar"
+    },
     "life/snapshot/snapshot": {
       "id": "life/snapshot/snapshot",
       "title": "2023 年短想法",
       "description": "2023 年短想法",
+      "sidebar": "tutorialSidebar"
+    },
+    "medicine/cardiology/Advanced-Heart-Failure": {
+      "id": "medicine/cardiology/Advanced-Heart-Failure",
+      "title": "心臟衰竭 Advanced Heart Failure",
+      "description": "心臟衰竭 Advanced Heart Failure",
       "sidebar": "tutorialSidebar"
     },
     "medicine/cardiology/Aortic-Dissections": {
@@ -316,12 +358,6 @@
       "id": "medicine/cardiology/Aortic-Regurgitation",
       "title": "主動脈瓣逆流 Aortic regurgitation",
       "description": "主動脈瓣逆流 Aortic regurgitation",
-      "sidebar": "tutorialSidebar"
-    },
-    "medicine/cardiology/Aortic-Regurgitation copy": {
-      "id": "medicine/cardiology/Aortic-Regurgitation copy",
-      "title": "心臟衰竭 Advanced Heart Failure",
-      "description": "心臟衰竭 Advanced Heart Failure",
       "sidebar": "tutorialSidebar"
     },
     "medicine/cardiology/Aortic-Stenosis.": {
@@ -386,7 +422,7 @@
     },
     "medicine/operation/port-a": {
       "id": "medicine/operation/port-a",
-      "title": "外科醫師新手村 (PORA-A Setup)",
+      "title": "外科醫師新手村 (PORT-A Setup)",
       "description": "外科醫師新手村 (PORA-A Setup)",
       "sidebar": "tutorialSidebar"
     },

@@ -64,12 +64,12 @@ module.exports = {
     algolia: {
       contextualSearch: true,
       // The application ID provided by Algolia
-      appId: 'N8VTM1LPAT',
+      appId: 'J2BVI05PDX',
 
       // Public API key: it is safe to commit it
-      apiKey: '19da408b84e8b9e95c4dc2cebd0892dc',
+      apiKey: 'b666b8ea7267e3a15a0e978d105f4af3',
 
-      indexName: 'wilsonchao.com',
+      indexName: 'wilsonchao',
 
 
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
@@ -113,6 +113,11 @@ module.exports = {
           position: 'left',
           label: '蒐集 Collection',
         },
+        {
+          type: 'search',
+          position: 'right',
+        },
+        
       ],
     },
     footer: {

@@ -26,12 +26,22 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "life/blog/devonthink",
-              "path": "/devonthink",
+              "id": "life/blog/workflow",
+              "path": "/workflow",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "life/collection/books",
+              "path": "/books",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/collection/computer",
+              "path": "/books",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/collection/home",
               "path": "/books",
               "sidebar": "tutorialSidebar"
             },
@@ -51,8 +61,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "life/collection/travel",
+              "path": "/books",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "life/snapshot/snapshot",
               "path": "/life/snapshot/2023-snapshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "medicine/cardiology/Advanced-Heart-Failure",
+              "path": "/medicine/AR",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -62,11 +82,6 @@
             },
             {
               "id": "medicine/cardiology/Aortic-Regurgitation",
-              "path": "/medicine/AR",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "medicine/cardiology/Aortic-Regurgitation copy",
               "path": "/medicine/AR",
               "sidebar": "tutorialSidebar"
             },
@@ -87,7 +102,7 @@
             },
             {
               "id": "medicine/cardiology/Infective-Endocarditis",
-              "path": "/medicine/A",
+              "path": "/medicine/IE",
               "sidebar": "tutorialSidebar"
             },
             {
