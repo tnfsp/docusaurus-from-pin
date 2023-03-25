@@ -1,5 +1,5 @@
 ---
-title: 心臟超音波基礎 Cardiac echo basics
+title: 二尖瓣狹窄 超音波評估
 last_update: 
     date: 2023-03-21
     author: Y.H. Chao 趙玴祥
