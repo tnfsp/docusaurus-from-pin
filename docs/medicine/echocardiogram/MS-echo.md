@@ -10,7 +10,7 @@ tags:
     - Cardiac echo
     - Basics
 ---
-關於 [二尖瓣狹窄](https://website-docusaurus-plugin-client-redirects.vercel.app/medicine/MS))
+關於 [二尖瓣狹窄](https://website-docusaurus-plugin-client-redirects.vercel.app/medicine/MS)
 
 心臟超音波是其中一種重要的評估方式
 通常可以看到
